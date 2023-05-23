@@ -18,7 +18,9 @@ for (let i = 0; i < groupings.length; i++) {
     var group = L.layerGroup();
     for (m of g) {
         namesToSearch.push(m.name);
-        markers.push({name: m.name, marker: L.marker([m.x, m.y], {icon: icon}).addTo(group).bindTooltip(m.name)});
+        var tooltip = m.name;
+        if (m.description != null) tooltip += '</br>' + m.description;
+        markers.push({name: m.name, marker: L.marker([m.x, m.y], {icon: icon}).addTo(group).bindTooltip(tooltip)});
         locationMap[m.name] = [m.x, m.y];
     }
     group.addTo(map);
