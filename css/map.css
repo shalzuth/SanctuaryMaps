@@ -1,0 +1,60 @@
+@font-face 
+{
+    font-family:"Alegreya Sans";
+    src:url("AlegreyaSans-Regular.ttf") format("truetype");
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face 
+{
+    font-family:"Exocet Blizzard OT";
+    src:url("css/exocet-blizzard-light.ttf") format("truetype");
+    font-weight:normal;
+    font-style:normal;
+}
+
+body {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-family: "Alegreya Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 0;
+  font-family: "Exocet Blizzard OT";
+  font-size: 30px;
+  color: #c79c6e;
+  text-shadow: 2px 2px 4px #000;
+}
+
+h2 {
+  color: #c79c6e;
+  text-shadow: 1px 1px 2px #000;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background: #101010;
+}
+
+.leaflet-searchbox-autocomplete {
+    color: black
+}
+.leaflet-marker-icon {
+  -webkit-filter: drop-shadow(1px 1px 0 black)
+                  drop-shadow(-1px -1px 0 black);
+  filter: drop-shadow(1px 1px 0 black) 
+          drop-shadow(-1px -1px 0 black);
+}
+
+.leaflet-tooltip {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-family: "Alegreya Sans", sans-serif;
+}
