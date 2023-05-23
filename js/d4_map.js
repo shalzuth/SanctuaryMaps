@@ -21,7 +21,7 @@ for (let i = 0; i < groupings.length; i++) {
         if (m.description != null) tooltip += '</br>' + m.description;
         namesToSearch.push(tooltip);
         markers.push({name: m.name, marker: L.marker([m.x, m.y], {icon: icon}).addTo(group).bindTooltip(tooltip)});
-        locationMap[m.name] = [m.x, m.y];
+        locationMap[tooltip] = [m.x, m.y];
     }
     group.addTo(map);
     overlayMaps[overlayMapNames[i]] = group;
