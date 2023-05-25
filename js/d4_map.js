@@ -28,7 +28,7 @@ for (let i = 0; i < groupings.length; i++) {
 }
 var layerControl = L.control.layers(null, overlayMaps).addTo(map);
 
-var fuse = new Fuse(namesToSearch, { shouldSort: true, threshold: 0.6, location: 0, distance: 100, minMatchCharLength: 1});
+var fuse = new Fuse(namesToSearch, { shouldSort: true, threshold: 0.2, location: 0, distance: 1000, minMatchCharLength: 1});
 var searchbox = L.control.searchbox({ position: 'topright', expand: 'left'}).addTo(map);
 searchbox.onInput("keyup", function (e) {
     var value = searchbox.getValue();
