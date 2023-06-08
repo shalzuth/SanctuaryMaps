@@ -1,6 +1,9 @@
-var crs = L.CRS.Simple;
-var map = new L.Map('map', { minZoom: 0, maxZoom: 18, crs: L.CRS.Simple, attributionControl: false, zoomControl: false, preferCanvas: true }).setView([-100, 100], 3);
-var tileLayer = L.tileLayer('img/Sanctuary/{z}/{x}/{y}.png', { minZoom: 0, maxZoom: 18, noWrap: true, tms: false, maxNativeZoom: 4 }).addTo(map);
+var mapBounds = L.latLngBounds(L.latLng(-800, -500), L.latLng(500, 800));
+var map = new L.Map('map', { minZoom: 0, maxZoom: 5, crs: L.CRS.Simple, attributionControl: false, zoomControl: false, preferCanvas: true, maxBounds: mapBounds }).setView([-100, 100], 3);
+
+var tileLayerBounds = L.latLngBounds(L.latLng(-185, 5), L.latLng(-5, 185));
+var tileLayer = L.tileLayer('img/Sanctuary/{z}/{x}/{y}.png', { minZoom: 0, maxZoom: 5, noWrap: true, tms: false, maxNativeZoom: 4, bounds: tileLayerBounds }).addTo(map);
+
 var altarIcon = { url: 'img/mapicons/altaroflilith.png', size: [40, 40] };
 var dungeonIcon = { url: 'img/mapicons/dungeon.png', size: [40, 40] };
 var cellarIcon = { url: 'img/mapicons/cellar.png', size: [40, 40] };
