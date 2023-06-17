@@ -16,52 +16,48 @@ var overlayMapNames = ['Waypoints', 'Dungeons', 'Altars of Lilith', 'Cellars', '
 var icons = [waypointIcon, dungeonIcon, altarIcon, cellarIcon, chestIcon];
 var groupings = [waypoints, dungeons, altars, cellars, chests];
 var overlayMaps = {};
-for (let i = 0; i < groupings.length; i++) {
-    var g = groupings[i];
-    var icon = icons[i];
-    var group = L.layerGroup();
-    for (m of g) {
-        var tooltip = m.name;
-        if (m.description != null) tooltip += '</br>' + m.description;
-        namesToSearch.push(tooltip);
-        markers.push({name: m.name, marker: L.canvasMarker([m.x, m.y], {img: icon}).addTo(group).bindTooltip(tooltip)});
-        locationMap[tooltip] = [m.x, m.y];
-    }
-    group.addTo(map);
-    overlayMaps[overlayMapNames[i]] = group;
+
+
+var urlParams = new URLSearchParams(window.location.search);
+var x = urlParams.get('x');
+var y = urlParams.get('y');
+
+function rotate(cx, cy, x, y, angle) {
+    var radians = (Math.PI / 180) * angle,
+        cos = Math.cos(radians),
+        sin = Math.sin(radians),
+        nx = (cos * (x - cx)) + (sin * (y - cy)) + cx,
+        ny = (cos * (y - cy)) - (sin * (x - cx)) + cy;
+    return [nx, ny];
 }
 
-if(document.location.hash != null && document.location.hash != "" && document.location.hash != "#")
+if(x != null && y != null)
 {
-    var parts = document.location.hash.replace('_',' ').substring(1).split('|');
-    var type = parts[0];
-    var label = decodeURI(parts[1]);
-    var x = 0;
-    var y = 0;
-    if(type == 'custom') {
-        x = parts[2];
-        y = parts[3];
-        var customGroup = L.layerGroup();
-        markers.push({name: label, marker: L.canvasMarker([x, y], {img: chestIcon}).addTo(customGroup).bindTooltip(label)});
-        customGroup.addTo(map);
-        overlayMaps['Custom'] = customGroup;
-        map.flyTo([x, y], 5);
-    }
-    else
-    {
-        var typeIndex = type * 1;
-        var entityList = groupings[typeIndex].filter(entity => entity.name == label);
-        if(entityList.length > 0)
-        {
-            x = entityList[0].x;
-            y = entityList[0].y;
-            map.flyTo([x, y], 5);
+    console.log([x, y]);
+    var points = rotate(1449, 2909, x, y, -45);
+    console.log(points);
+    var rotatedScaledX = points[0] * 1.0666667 * 194 / 4096;
+    var rotatedScaledY = points[1] * 1.0666667 * 194 / 4096;
+    var mapX = -146.5 - rotatedScaledY;
+    var mapY = 194 - rotatedScaledX;
+    L.marker([mapX, mapY]).addTo(map);
+    map.flyTo([mapX, mapY], 5);
+}
+else{
+    for (let i = 0; i < groupings.length; i++) {
+        var g = groupings[i];
+        var icon = icons[i];
+        var group = L.layerGroup();
+        for (m of g) {
+            var tooltip = m.name;
+            if (m.description != null) tooltip += '</br>' + m.description;
+            namesToSearch.push(tooltip);
+            markers.push({name: m.name, marker: L.canvasMarker([m.x, m.y], {img: icon}).addTo(group).bindTooltip(tooltip)});
+            locationMap[tooltip] = [m.x, m.y];
         }
-
+        group.addTo(map);
+        overlayMaps[overlayMapNames[i]] = group;
     }
-    
-    
-    
 }
 
 var layerControl = L.control.layers(null, overlayMaps).addTo(map);
