@@ -30,6 +30,40 @@ for (let i = 0; i < groupings.length; i++) {
     group.addTo(map);
     overlayMaps[overlayMapNames[i]] = group;
 }
+
+if(document.location.hash != null && document.location.hash != "" && document.location.hash != "#")
+{
+    var parts = document.location.hash.replace('_',' ').substring(1).split('|');
+    var type = parts[0];
+    var label = decodeURI(parts[1]);
+    var x = 0;
+    var y = 0;
+    if(type == 'custom') {
+        x = parts[2];
+        y = parts[3];
+        var customGroup = L.layerGroup();
+        markers.push({name: label, marker: L.canvasMarker([x, y], {img: chestIcon}).addTo(customGroup).bindTooltip(label)});
+        customGroup.addTo(map);
+        overlayMaps['Custom'] = customGroup;
+        map.flyTo([x, y], 5);
+    }
+    else
+    {
+        var typeIndex = type * 1;
+        var entityList = groupings[typeIndex].filter(entity => entity.name == label);
+        if(entityList.length > 0)
+        {
+            x = entityList[0].x;
+            y = entityList[0].y;
+            map.flyTo([x, y], 5);
+        }
+
+    }
+    
+    
+    
+}
+
 var layerControl = L.control.layers(null, overlayMaps).addTo(map);
 
 var fuse = new Fuse(namesToSearch, { shouldSort: true, threshold: 0.2, location: 0, distance: 1000, minMatchCharLength: 1});
@@ -48,3 +82,4 @@ searchbox.onInput("keyup", function (e) {
         searchbox.clearItems();
     }
 });
+
