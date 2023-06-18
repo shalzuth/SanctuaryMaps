@@ -21,6 +21,7 @@ var overlayMaps = {};
 var urlParams = new URLSearchParams(window.location.search);
 var x = urlParams.get('x');
 var y = urlParams.get('y');
+var cow = urlParams.get('cow');
 
 function rotate(cx, cy, x, y, angle) {
     var radians = (Math.PI / 180) * angle,
@@ -33,9 +34,7 @@ function rotate(cx, cy, x, y, angle) {
 
 if(x != null && y != null)
 {
-    console.log([x, y]);
     var points = rotate(1449, 2909, x, y, -45);
-    console.log(points);
     var rotatedScaledX = points[0] * 1.0666667 * 194 / 4096;
     var rotatedScaledY = points[1] * 1.0666667 * 194 / 4096;
     var mapX = -146.5 - rotatedScaledY;
@@ -43,7 +42,29 @@ if(x != null && y != null)
     L.marker([mapX, mapY]).addTo(map);
     map.flyTo([mapX, mapY], 5);
 }
-else{
+else if (cow != null)
+{
+    var cowIcon = { url: 'img/mapicons/cow.png', size: [30, 30] };
+    var markers = [];
+    var locationMap = [];
+    var overlayMapNames = ['ambient_cow', 'other cows'];
+    var overlayMaps = {};
+
+    var ambient = L.layerGroup();
+    var other = L.layerGroup();
+    for (m of cows) {
+        var tooltip = m.name;
+        var grouping = tooltip.includes('ambient_cow') ? ambient : other;
+        markers.push({name: m.name, marker: L.canvasMarker([m.x, m.y], {img: cowIcon}).addTo(grouping).bindTooltip(tooltip)});
+        locationMap[tooltip] = [m.x, m.y];
+    }
+    ambient.addTo(map);
+    other.addTo(map);
+    overlayMaps['ambient_cow'] = ambient;
+    overlayMaps['other cows'] = other;
+}
+else
+{
     for (let i = 0; i < groupings.length; i++) {
         var g = groupings[i];
         var icon = icons[i];
