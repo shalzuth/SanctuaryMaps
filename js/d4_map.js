@@ -18,7 +18,6 @@ var icons = [waypointIcon, dungeonIcon, altarIcon, cellarIcon, chestIcon, eventI
 var groupings = [waypoints, dungeons, altars, cellars, chests, events];
 var overlayMaps = {};
 
-
 var urlParams = new URLSearchParams(window.location.search);
 var x = urlParams.get('x');
 var y = urlParams.get('y');
@@ -31,6 +30,14 @@ function rotate(cx, cy, x, y, angle) {
         nx = (cos * (x - cx)) + (sin * (y - cy)) + cx,
         ny = (cos * (y - cy)) - (sin * (x - cx)) + cy;
     return [nx, ny];
+}
+function getMap(x, y) {
+    var points = rotate(1449, 2909, x, y, -45);
+    var rotatedScaledX = points[0] * 1.0666667 * 194 / 4096;
+    var rotatedScaledY = points[1] * 1.0666667 * 194 / 4096;
+    var mapX = -146.5 - rotatedScaledY;
+    var mapY = 194 - rotatedScaledX;
+    return [mapX, mapY];
 }
 
 if(x != null && y != null)
@@ -66,6 +73,13 @@ else if (cow != null)
 }
 else
 {
+    for (let i = 0; i < territories.names.length; i++) {
+        var territoryName = territories.names[i];
+        var points = territories.points[i].map((point) => getMap(point.x, point.y));
+        
+        var latlngs = [[0, 0],[-100,0],[-100,100],[0,100]];
+        var polygon = L.polygon(points, {fill: false, color: 'grey', weight: 2}).addTo(map).bindTooltip(territoryName);
+    }
     for (let i = 0; i < groupings.length; i++) {
         var g = groupings[i];
         var icon = icons[i];
