@@ -1,2727 +1,2727 @@
 var events = [
   {
-    "x": -86.62818,
-    "y": 56.597305,
+    "x": -547.423,
+    "y": -884.497,
     "name": "Ravager of Dindai</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Ravager of Dindai"
   },
   {
-    "x": -93.90312,
-    "y": 83.43008,
+    "x": -821.161,
+    "y": -407.114,
     "name": "Bastard of Guulrahn</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Bastard of Guulrahn"
   },
   {
-    "x": -96.33775,
-    "y": 68.64356,
+    "x": -580.128,
+    "y": -579.995,
     "name": "Insatiable Blade</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Insatiable Blade"
   },
   {
-    "x": -79.21514,
-    "y": 99.08495,
+    "x": -1245.85,
+    "y": -393.581,
     "name": "Speaker of Fel Flames</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Speaker of Fel Flames"
   },
   {
-    "x": -72.61406,
-    "y": 91.761536,
+    "x": -1235.74,
+    "y": -588.473,
     "name": "Lord of Ashes</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Lord of Ashes"
   },
   {
-    "x": -73.66268,
-    "y": 73.73154,
+    "x": -968.709,
+    "y": -826.15,
     "name": "Sins of the Carver</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Sins of the Carver"
   },
   {
-    "x": -70.68636,
-    "y": 84.92543,
+    "x": -1167.04,
+    "y": -711.134,
     "name": "Mongrel of Rakinishu</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Mongrel of Rakinishu"
   },
   {
-    "x": -103.6476,
-    "y": 96.397255,
+    "x": -866.267,
+    "y": -89.2338,
     "name": "Mistress of the Wastes</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Mistress of the Wastes"
   },
   {
-    "x": -90.488625,
-    "y": 39.97618,
+    "x": -260.756,
+    "y": -1063.1,
     "name": "Immortal Spirit</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Immortal Spirit"
   },
   {
-    "x": -63.505814,
-    "y": 59.347702,
+    "x": -909.547,
+    "y": -1169.63,
     "name": "Festering Sand Queen</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Festering Sand Queen"
   },
   {
-    "x": -71.81499,
-    "y": 56.956512,
+    "x": -759.781,
+    "y": -1086.8,
     "name": "Salt Drinker</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Salt Drinker"
   },
   {
-    "x": -82.76474,
-    "y": 58.846466,
+    "x": -632.977,
+    "y": -907.091,
     "name": "Salt Pan Goliath</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Salt Pan Goliath"
   },
   {
-    "x": -96.87851,
-    "y": 79.497,
+    "x": -724.468,
+    "y": -420.518,
     "name": "Bloodmuck Matron</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Bloodmuck Matron"
   },
   {
-    "x": -85.58345,
-    "y": 37.62303,
+    "x": -296.475,
+    "y": -1164.69,
     "name": "Purulent Captain</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Purulent Captain"
   },
   {
-    "x": -67.14912,
-    "y": 77.162796,
+    "x": -1107.9,
+    "y": -869.291,
     "name": "Quick Blade</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Quick Blade"
   },
   {
-    "x": -78.310616,
-    "y": 46.341232,
+    "x": -520.291,
+    "y": -1144.46,
     "name": "Cull The Scarred Coast Maggots</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Maggots: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -57.431976,
-    "y": 65.95239,
+    "x": -1087.0,
+    "y": -1162.2,
     "name": "Cull Kotama Grasslands Spiders</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Spiders: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -88.93068,
-    "y": 72.69734,
+    "x": -740.538,
+    "y": -626.929,
     "name": "Cull Khargai Crags Bandits</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Bandits: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -84.27128,
-    "y": 90.631134,
+    "x": -1056.76,
+    "y": -441.136,
     "name": "Cull Chambatar Ridge Cannibals</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Cannibals: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -108.19733,
-    "y": 84.335205,
+    "x": -633.763,
+    "y": -194.379,
     "name": "Cull Accursed Wastes Goatmen</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Goatmen: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -104.16366,
-    "y": 74.52902,
+    "x": -552.969,
+    "y": -388.086,
     "name": "Cull Untamed Scarps Skeletons</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Skeletons: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -87.30044,
-    "y": 82.599884,
+    "x": -901.955,
+    "y": -511.147,
     "name": "Harvest: Khargai Crags</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -93.0936,
-    "y": 36.2202,
+    "x": -171.726,
+    "y": -1079.21,
     "name": "Harvest: The Scarred Coast</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -97.40704,
-    "y": 93.57415,
+    "x": -914.099,
+    "y": -216.092,
     "name": "Harvest: The Accursed Wastes</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -54.719116,
-    "y": 68.847435,
+    "x": -1165.49,
+    "y": -1159.65,
     "name": "Harvest: Kotama Grasslands</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -110.254326,
-    "y": 77.6625,
+    "x": -511.579,
+    "y": -258.982,
     "name": "Harvest: Untamed Scarps</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -88.91371,
-    "y": 96.90256,
+    "x": -1079.56,
+    "y": -288.382,
     "name": "Harvest: Chambatar Ridge</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -80.90693,
-    "y": 64.8165,
+    "x": -742.538,
+    "y": -849.535,
     "name": "Harvest: Dindai Flats</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -84.18608,
-    "y": 48.057755,
+    "x": -462.081,
+    "y": -1038.2,
     "name": "Undying Marches Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -94.33409,
-    "y": 39.00145,
+    "x": -193.291,
+    "y": -1022.92,
     "name": "Bastion of the Damned Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -95.28309,
-    "y": 85.24401,
+    "x": -827.235,
+    "y": -362.411,
     "name": "The Trail of Bones Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -103.669426,
-    "y": 84.09599,
+    "x": -693.789,
+    "y": -261.101,
     "name": "Barren Steeps Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -98.56034,
-    "y": 87.615456,
+    "x": -814.557,
+    "y": -283.35,
     "name": "Bleak Expanse Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -111.52034,
-    "y": 82.325676,
+    "x": -559.127,
+    "y": -175.995,
     "name": "Yin’ada Gur Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -72.67432,
-    "y": 87.14129,
+    "x": -1170.23,
+    "y": -652.296,
     "name": "The Central Steppes Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -89.31799,
-    "y": 67.45547,
+    "x": -661.75,
+    "y": -694.875,
     "name": "Bastard&#39;s Pass Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -76.896065,
-    "y": 83.13518,
+    "x": -1055.07,
+    "y": -649.278,
     "name": "The Grinning Face Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -71.798164,
-    "y": 70.41664,
+    "x": -948.409,
+    "y": -898.643,
     "name": "Wayward Plains Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -69.54046,
-    "y": 60.02124,
+    "x": -834.511,
+    "y": -1075.74,
     "name": "Wretched Strand Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -59.789024,
-    "y": 67.99578,
+    "x": -1082.61,
+    "y": -1100.61,
     "name": "Wayward Plains Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -103.82136,
-    "y": 68.53825,
+    "x": -473.911,
+    "y": -476.726,
     "name": "South Center Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -105.8929,
-    "y": 62.0607,
+    "x": -354.255,
+    "y": -538.394,
     "name": "Galtmaa Bushland Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -94.29579,
-    "y": 62.671783,
+    "x": -525.125,
+    "y": -692.158,
     "name": "The Field of Broken Spears Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -97.334305,
-    "y": 73.88479,
+    "x": -639.538,
+    "y": -492.689,
     "name": "Flayer’s Outpost Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -84.96578,
-    "y": 98.97264,
+    "x": -1163.79,
+    "y": -314.665,
     "name": "Path of Stray Souls Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -74.738075,
-    "y": 90.64686,
+    "x": -1190.41,
+    "y": -574.346,
     "name": "Forsaken Ascent Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -81.33391,
-    "y": 59.37828,
+    "x": -660.447,
+    "y": -919.674,
     "name": "Brackish Pans Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -90.509735,
-    "y": 59.055557,
+    "x": -527.502,
+    "y": -795.763,
     "name": "Forlorn Tread Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -101.114006,
-    "y": 52.901016,
+    "x": -292.94,
+    "y": -733.483,
     "name": "{c_red}PvP{/c}: Fields of Hatred Events</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete any event in the region"
   },
   {
-    "x": -96.0379,
-    "y": 48.44751,
+    "x": -301.654,
+    "y": -866.863,
     "name": "{c_red}PvP:{/c} Seething Abomination</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Defeat the {MONSTER}"
   },
   {
-    "x": -96.526245,
-    "y": 54.261093,
+    "x": -376.188,
+    "y": -778.659,
     "name": "{c_red}PvP:{/c} Purify Seeds of Hatred</br>The power of the Seeds of Hatred has intrigued the Tree of Whispers.</br>Complete a ritual at an Altar of Extraction</br>Complete a ritual at an Altar of Extraction"
   },
   {
-    "x": -83.88376,
-    "y": 77.70182,
+    "x": -881.221,
+    "y": -627.523,
     "name": "Khargai Crags Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Khargai Crags: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -98.120834,
-    "y": 69.0064,
+    "x": -560.25,
+    "y": -549.96,
     "name": "Untamed Scarps Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Untamed Scarps: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -83.908394,
-    "y": 82.97685,
+    "x": -954.707,
+    "y": -553.347,
     "name": "Grinning Labyrinth</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Grinning Labyrinth"
   },
   {
-    "x": -79.78429,
-    "y": 78.82115,
+    "x": -954.265,
+    "y": -669.234,
     "name": "Mournfield</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Mournfield"
   },
   {
-    "x": -67.4876,
-    "y": 85.553375,
+    "x": -1220.6,
+    "y": -747.116,
     "name": "Path of the Blind</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Path of the Blind"
   },
   {
-    "x": -81.357155,
-    "y": 71.93253,
+    "x": -835.835,
+    "y": -743.635,
     "name": "Onyx Hold</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Onyx Hold"
   },
   {
-    "x": -68.08809,
-    "y": 73.15546,
+    "x": -1038.67,
+    "y": -912.237,
     "name": "Dark Ravine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Dark Ravine"
   },
   {
-    "x": -82.93912,
-    "y": 45.202225,
+    "x": -439.567,
+    "y": -1095.62,
     "name": "Carrion Fields</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Carrion Fields"
   },
   {
-    "x": -94.88495,
-    "y": 36.01996,
+    "x": -143.851,
+    "y": -1056.94,
     "name": "Komdor Temple</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Komdor Temple"
   },
   {
-    "x": -107.909256,
-    "y": 91.703636,
+    "x": -740.926,
+    "y": -95.2799,
     "name": "Pallid Delve</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Pallid Delve"
   },
   {
-    "x": -103.923134,
-    "y": 89.26614,
+    "x": -762.601,
+    "y": -185.187,
     "name": "Shifting City</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Shifting City"
   },
   {
-    "x": -102.2581,
-    "y": 99.12754,
+    "x": -923.929,
+    "y": -70.4678,
     "name": "Betrayer&#39;s Row</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Betrayer&#39;s Row"
   },
   {
-    "x": -96.556496,
-    "y": 85.71471,
+    "x": -816.0,
+    "y": -338.0,
     "name": "Buried Halls</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Buried Halls"
   },
   {
-    "x": -91.56679,
-    "y": 85.32201,
+    "x": -880.341,
+    "y": -413.334,
     "name": "Guulrahn Canals</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Guulrahn Canals"
   },
   {
-    "x": -90.2686,
-    "y": 87.769,
+    "x": -932.76,
+    "y": -397.255,
     "name": "Guulrahn Slums</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Guulrahn Slums"
   },
   {
-    "x": -70.58567,
-    "y": 57.04268,
+    "x": -778.193,
+    "y": -1102.8,
     "name": "Seaside Descent</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Seaside Descent"
   },
   {
-    "x": -104.26958,
-    "y": 66.40601,
+    "x": -437.794,
+    "y": -500.296,
     "name": "Charnel House</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Charnel House"
   },
   {
-    "x": -96.61933,
-    "y": 81.15869,
+    "x": -751.353,
+    "y": -400.888,
     "name": "Ancients&#39; Lament</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Ancient&#39;s Lament"
   },
   {
-    "x": -95.5208,
-    "y": 73.17378,
+    "x": -654.969,
+    "y": -528.023,
     "name": "Bloodsoaked Crag</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Bloodsoaked Crag"
   },
   {
-    "x": -101.600136,
-    "y": 70.02213,
+    "x": -525.769,
+    "y": -487.046,
     "name": "Sealed Archives</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Sealed Archives"
   },
   {
-    "x": -107.47542,
-    "y": 75.81633,
+    "x": -524.634,
+    "y": -323.716,
     "name": "Champion&#39;s Demise</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Champion&#39;s Demise"
   },
   {
-    "x": -89.901215,
-    "y": 100.59648,
+    "x": -1117.44,
+    "y": -222.859,
     "name": "Whispering Vault</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Whispering Vault"
   },
   {
-    "x": -81.68421,
-    "y": 62.949722,
+    "x": -705.531,
+    "y": -864.784,
     "name": "Forgotten Depths</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Forgotten Depths"
   },
   {
-    "x": -100.3427,
-    "y": 96.04684,
+    "x": -907.619,
+    "y": -140.395,
     "name": "World Boss</br>Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location.</br>Slay the World Boss"
   },
   {
-    "x": -73.92414,
-    "y": 49.68814,
+    "x": -628.53,
+    "y": -1159.01,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -102.74336,
-    "y": 61.870438,
+    "x": -395.674,
+    "y": -585.139,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -103.815605,
-    "y": 64.80725,
+    "x": -421.771,
+    "y": -529.027,
     "name": "Ritual: Untamed Scarps</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -85.21918,
-    "y": 76.19722,
+    "x": -841.471,
+    "y": -629.891,
     "name": "Ritual: Khargai Crags</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -69.371925,
-    "y": 87.644165,
+    "x": -1223.49,
+    "y": -691.479,
     "name": "The Decrepit Hive</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Decrepit Hive"
   },
   {
-    "x": -74.93269,
-    "y": 75.552414,
+    "x": -976.419,
+    "y": -782.889,
     "name": "Abahru Sinkhole</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Abahru Sinkhole"
   },
   {
-    "x": -85.48274,
-    "y": 39.029785,
+    "x": -317.574,
+    "y": -1146.41,
     "name": "The Eroded Cave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Eroded Cave"
   },
   {
-    "x": -79.07328,
-    "y": 44.801926,
+    "x": -488.072,
+    "y": -1155.33,
     "name": "The Seaside Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Seaside Cavern"
   },
   {
-    "x": -91.96026,
-    "y": 41.399582,
+    "x": -260.081,
+    "y": -1022.58,
     "name": "The Hinterlands Shelter</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Hinterlands Shelter"
   },
   {
-    "x": -96.771255,
-    "y": 94.67055,
+    "x": -938.343,
+    "y": -209.645,
     "name": "The Desolate Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Desolate Cellar"
   },
   {
-    "x": -101.47424,
-    "y": 84.20106,
+    "x": -725.984,
+    "y": -290.355,
     "name": "The Dark Hollow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Dark Hollow"
   },
   {
-    "x": -97.85662,
-    "y": 87.40394,
+    "x": -821.446,
+    "y": -296.16,
     "name": "The Dusty Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Dusty Cavern"
   },
   {
-    "x": -108.325195,
-    "y": 92.39278,
+    "x": -744.75,
+    "y": -79.8126,
     "name": "The Abandoned Mineshaft</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Abandoned Mineshaft"
   },
   {
-    "x": -92.54491,
-    "y": 84.306435,
+    "x": -852.437,
+    "y": -413.858,
     "name": "The Blood-soaked Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Blood-soaked Cellar"
   },
   {
-    "x": -57.97998,
-    "y": 71.475975,
+    "x": -1156.64,
+    "y": -1077.22,
     "name": "The Fetid Pit</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Fetid Pit"
   },
   {
-    "x": -64.65295,
-    "y": 60.914154,
+    "x": -915.416,
+    "y": -1131.65,
     "name": "The Briny Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Briny Cavern"
   },
   {
-    "x": -68.20933,
-    "y": 76.55613,
+    "x": -1084.57,
+    "y": -862.943,
     "name": "The Grain Storage</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Grain Storage"
   },
   {
-    "x": -77.4126,
-    "y": 65.72273,
+    "x": -804.13,
+    "y": -885.759,
     "name": "The Arid Tunnel</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Arid Tunnel"
   },
   {
-    "x": -79.01715,
-    "y": 66.75643,
+    "x": -796.14,
+    "y": -848.833,
     "name": "The Bandit&#39;s Tunnel</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Bandit&#39;s Tunnel"
   },
   {
-    "x": -94.09367,
-    "y": 76.23133,
+    "x": -717.738,
+    "y": -505.203,
     "name": "The Barren Cave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Barren Cave"
   },
   {
-    "x": -109.099846,
-    "y": 68.425674,
+    "x": -398.456,
+    "y": -404.422,
     "name": "The Marauder&#39;s Hideaway</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Marauder&#39;s Hideaway"
   },
   {
-    "x": -97.203415,
-    "y": 67.53192,
+    "x": -552.453,
+    "y": -583.438,
     "name": "The Cannibal&#39;s Dugout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Cannibal&#39;s Dugout"
   },
   {
-    "x": -102.81299,
-    "y": 74.127106,
+    "x": -566.248,
+    "y": -412.616,
     "name": "The Sun-bleached Excavation</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Sun-bleached Excavation"
   },
   {
-    "x": -83.58942,
-    "y": 83.43556,
+    "x": -965.592,
+    "y": -551.391,
     "name": "The Rotting Pit</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Rotting Pit"
   },
   {
-    "x": -87.92427,
-    "y": 94.519905,
+    "x": -1060.06,
+    "y": -335.579,
     "name": "The Steamy Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Steamy Cavern"
   },
   {
-    "x": -87.6772,
-    "y": 54.472427,
+    "x": -503.0,
+    "y": -899.555,
     "name": "The Cannibals Foothold</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Cannibals Foothold"
   },
   {
-    "x": -78.78724,
-    "y": 61.401382,
+    "x": -724.407,
+    "y": -927.002,
     "name": "The Monks Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Monks Cellar"
   },
   {
-    "x": -105.08351,
-    "y": 113.27813,
+    "x": -1082.44,
+    "y": 167.134,
     "name": "Taiga Bandit Chief</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Taiga Bandit Chief"
   },
   {
-    "x": -97.96936,
-    "y": 127.45668,
+    "x": -1380.46,
+    "y": 266.01,
     "name": "Taiga Ranger</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Taiga Ranger"
   },
   {
-    "x": -86.274734,
-    "y": 147.28387,
+    "x": -1821.65,
+    "y": 379.836,
     "name": "Ice Carver</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Ice Carver"
   },
   {
-    "x": -88.75813,
-    "y": 118.08899,
+    "x": -1378.27,
+    "y": 5.97302,
     "name": "Highway Haunter</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Highway Haunter"
   },
   {
-    "x": -94.42004,
-    "y": 113.44605,
+    "x": -1234.04,
+    "y": 20.2348,
     "name": "Ice Clan Woodstalker</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Ice Clan Woodstalker"
   },
   {
-    "x": -84.75641,
-    "y": 128.32312,
+    "x": -1577.52,
+    "y": 93.2039,
     "name": "Ice Clan Elder</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Ice Clan Elder"
   },
   {
-    "x": -92.17024,
-    "y": 137.96182,
+    "x": -1608.66,
+    "y": 331.877,
     "name": "Hoarfrost Shambler</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Hoarfrost Shambler"
   },
   {
-    "x": -102.55539,
-    "y": 117.78755,
+    "x": -1180.94,
+    "y": 194.865,
     "name": "Shivering Magus</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Shivering Magus"
   },
   {
-    "x": -82.01738,
-    "y": 122.59546,
+    "x": -1535.69,
+    "y": -25.2988,
     "name": "The Borean Howler</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Borean Howler"
   },
   {
-    "x": -107.61385,
-    "y": 144.06013,
+    "x": -1477.86,
+    "y": 633.385,
     "name": "Butcher of Tsepilova</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Butcher of Tsepilova"
   },
   {
-    "x": -92.63375,
-    "y": 152.37543,
+    "x": -1803.91,
+    "y": 540.102,
     "name": "Lord of Frozen Plains</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Lord of Frozen Plains"
   },
   {
-    "x": -100.94793,
-    "y": 144.64183,
+    "x": -1579.3,
+    "y": 548.228,
     "name": "Fiend of Yelesna</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Fiend of Yelesna"
   },
   {
-    "x": -105.46089,
-    "y": 128.45651,
+    "x": -1289.6,
+    "y": 384.858,
     "name": "Beast of Krol</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat The Beast of Krol"
   },
   {
-    "x": -101.32355,
-    "y": 104.258934,
+    "x": -1008.83,
+    "y": -11.7274,
     "name": "Stalker of the Drifts</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Stalker of the Drifts"
   },
   {
-    "x": -88.22724,
-    "y": 109.08445,
+    "x": -1259.67,
+    "y": -127.488,
     "name": "The Pallid Glade Spiders</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Spiders: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -77.21525,
-    "y": 125.55036,
+    "x": -1644.26,
+    "y": -51.1532,
     "name": "Cull Sarkova Pass Vampires</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Vampires: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -86.542336,
-    "y": 135.39615,
+    "x": -1651.52,
+    "y": 217.197,
     "name": "Cull Frigid Expanse Ghosts</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Ghosts: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -81.14268,
-    "y": 142.60909,
+    "x": -1828.05,
+    "y": 242.576,
     "name": "Cull Seat of the Heavens Skeletons</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Skeletons: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -106.41207,
-    "y": 135.9837,
+    "x": -1381.64,
+    "y": 503.524,
     "name": "Cull Gale Valley Werewolves</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Werewolves: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -97.20323,
-    "y": 118.17905,
+    "x": -1261.33,
+    "y": 125.434,
     "name": "Cull Desolate Highlands Bandits</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Bandits: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -109.21266,
-    "y": 146.01404,
+    "x": -1482.83,
+    "y": 683.11,
     "name": "Harvest: Gale Valley</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -88.23239,
-    "y": 156.85495,
+    "x": -1928.21,
+    "y": 541.196,
     "name": "Harvest: Seat of the Heavens</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -96.53435,
-    "y": 126.58824,
+    "x": -1388.39,
+    "y": 233.77,
     "name": "Harvest: Dobrev Taiga</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -95.90596,
-    "y": 117.56695,
+    "x": -1270.92,
+    "y": 98.7098,
     "name": "Harvest: Desolate Highlands</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -84.26254,
-    "y": 109.410866,
+    "x": -1319.73,
+    "y": -178.411,
     "name": "Harvest: The Pallid Glade</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -98.682976,
-    "y": 140.55496,
+    "x": -1553.8,
+    "y": 459.326,
     "name": "Harvest: Frigid Expanse</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -76.231476,
-    "y": 127.21728,
+    "x": -1681.36,
+    "y": -41.5917,
     "name": "Harvest: Sarkova Pass</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -104.479744,
-    "y": 139.45706,
+    "x": -1457.3,
+    "y": 525.093,
     "name": "The Creaking Mill Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -107.63307,
-    "y": 148.30046,
+    "x": -1536.94,
+    "y": 693.003,
     "name": "Gnarled Timbers Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -94.584946,
-    "y": 150.18481,
+    "x": -1745.94,
+    "y": 536.751,
     "name": "Fields of Judgment Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -79.68326,
-    "y": 141.72052,
+    "x": -1836.04,
+    "y": 209.713,
     "name": "Sinner&#39;s Pass Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -86.61882,
-    "y": 150.8631,
+    "x": -1866.93,
+    "y": 434.748,
     "name": "College of Light Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -109.60416,
-    "y": 131.80101,
+    "x": -1278.42,
+    "y": 489.659,
     "name": "Vale of Fools Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -102.416245,
-    "y": 130.3703,
+    "x": -1359.0,
+    "y": 369.03,
     "name": "Dobrev Taiga Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -99.62691,
-    "y": 123.48633,
+    "x": -1301.69,
+    "y": 233.639,
     "name": "Radiance Field Cemetery Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -102.47775,
-    "y": 116.44674,
+    "x": -1163.26,
+    "y": 175.012,
     "name": "Eastern Pass Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -110.1434,
-    "y": 103.81065,
+    "x": -879.11,
+    "y": 105.444,
     "name": "Icehowl Taiga Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -97.514885,
-    "y": 116.310135,
+    "x": -1230.81,
+    "y": 103.638,
     "name": "Saint&#39;s Cross Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -95.37125,
-    "y": 102.84068,
+    "x": -1072.29,
+    "y": -114.888,
     "name": "Frostbite Trails Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -82.015724,
-    "y": 109.16029,
+    "x": -1347.67,
+    "y": -213.365,
     "name": "Melnik&#39;s Hill Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -93.15686,
-    "y": 109.99944,
+    "x": -1203.48,
+    "y": -45.6851,
     "name": "Camp Trenchfoot Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -96.98343,
-    "y": 134.09631,
+    "x": -1487.19,
+    "y": 345.141,
     "name": "Drozdov Fortress Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -88.31888,
-    "y": 137.35631,
+    "x": -1654.09,
+    "y": 269.497,
     "name": "Frigid Expanse Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -98.30348,
-    "y": 149.62366,
+    "x": -1686.04,
+    "y": 580.943,
     "name": "Shivering Wilds Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -78.87633,
-    "y": 136.16449,
+    "x": -1769.57,
+    "y": 120.655,
     "name": "Kor Vos Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -90.52797,
-    "y": 116.095695,
+    "x": -1325.6,
+    "y": 2.8456,
     "name": "Manteifel Fortress Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -87.6495,
-    "y": 123.0305,
+    "x": -1462.95,
+    "y": 59.6192,
     "name": "Western Highway Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -78.36577,
-    "y": 113.28809,
+    "x": -1456.53,
+    "y": -206.677,
     "name": "Western Ways Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -79.5406,
-    "y": 124.35193,
+    "x": -1594.94,
+    "y": -35.3805,
     "name": "Crags of Ill Wind Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -90.28435,
-    "y": 135.47935,
+    "x": -1600.31,
+    "y": 270.736,
     "name": "Frigid Expanse Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Frigid Expanse: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -84.482506,
-    "y": 117.72152,
+    "x": -1432.97,
+    "y": -59.0134,
     "name": "Sarkova Pass Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Sarkova Pass: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -107.15283,
-    "y": 146.25624,
+    "x": -1515.05,
+    "y": 657.67,
     "name": "Dead Man&#39;s Dredge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Dead Man&#39;s Dredge"
   },
   {
-    "x": -81.35145,
-    "y": 144.90483,
+    "x": -1857.26,
+    "y": 277.63,
     "name": "Hoarfrost Demise</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Hoarfrost Demise"
   },
   {
-    "x": -82.770355,
-    "y": 153.43701,
+    "x": -1956.82,
+    "y": 416.909,
     "name": "The Zenith</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Zenith"
   },
   {
-    "x": -78.50148,
-    "y": 153.00774,
+    "x": -2010.56,
+    "y": 351.152,
     "name": "Kor Valar Ramparts</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Kor Valar Ramparts"
   },
   {
-    "x": -90.1311,
-    "y": 159.5853,
+    "x": -1939.85,
+    "y": 605.986,
     "name": "Sanguine Chapel</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Sanguine Chapel"
   },
   {
-    "x": -101.48082,
-    "y": 121.85576,
+    "x": -1252.92,
+    "y": 236.765,
     "name": "Light&#39;s Watch</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Light&#39;s Watch"
   },
   {
-    "x": -106.2625,
-    "y": 125.38068,
+    "x": -1235.33,
+    "y": 353.027,
     "name": "Maulwood</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Maulwood"
   },
   {
-    "x": -107.99127,
-    "y": 112.584946,
+    "x": -1032.04,
+    "y": 198.13,
     "name": "Defiled Catacomb</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Defiled Catacomb"
   },
   {
-    "x": -109.24138,
-    "y": 105.75116,
+    "x": -918.895,
+    "y": 119.979,
     "name": "Lost Archives</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Lost Archives"
   },
   {
-    "x": -102.68114,
-    "y": 109.77689,
+    "x": -1067.06,
+    "y": 84.5051,
     "name": "Tormented Ruins</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Tormented Ruins"
   },
   {
-    "x": -96.607704,
-    "y": 110.1187,
+    "x": -1156.85,
+    "y": 4.28335,
     "name": "Cultist Refuge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Cultist Refuge"
   },
   {
-    "x": -81.06772,
-    "y": 103.78043,
+    "x": -1285.64,
+    "y": -301.932,
     "name": "Caldera Gate</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Caldera Gate"
   },
   {
-    "x": -91.21721,
-    "y": 107.66469,
+    "x": -1197.95,
+    "y": -105.511,
     "name": "Derelict Lodge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Derelict Lodge"
   },
   {
-    "x": -87.53677,
-    "y": 107.01148,
+    "x": -1240.32,
+    "y": -166.166,
     "name": "Nostrava Deepwood</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Nostrava Deepwood"
   },
   {
-    "x": -86.777695,
-    "y": 133.50452,
+    "x": -1621.75,
+    "y": 194.015,
     "name": "Black Asylum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Black Asylum"
   },
   {
-    "x": -83.90512,
-    "y": 127.11389,
+    "x": -1572.51,
+    "y": 64.3641,
     "name": "Forsaken Quarry</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Forsaken Quarry"
   },
   {
-    "x": -94.00389,
-    "y": 138.38155,
+    "x": -1588.87,
+    "y": 363.416,
     "name": "Hallowed Ossuary</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Hallowed Ossuary"
   },
   {
-    "x": -95.63661,
-    "y": 134.93292,
+    "x": -1517.75,
+    "y": 338.0,
     "name": "Immortal Emanation</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Immortal Emanation"
   },
   {
-    "x": -71.29167,
-    "y": 110.132866,
+    "x": -1511.38,
+    "y": -349.85,
     "name": "Mercy&#39;s Reach</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Mercy&#39;s Reach"
   },
   {
-    "x": -77.03471,
-    "y": 116.23958,
+    "x": -1516.47,
+    "y": -183.997,
     "name": "Forbidden City</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Forbidden City"
   },
   {
-    "x": -73.68587,
-    "y": 123.69213,
+    "x": -1667.65,
+    "y": -126.56,
     "name": "Kor Dragan Barracks</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Kor Dragan Barracks"
   },
   {
-    "x": -99.34851,
-    "y": 157.27612,
+    "x": -1778.52,
+    "y": 702.676,
     "name": "World Boss</br>Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location.</br>Slay the World Boss"
   },
   {
-    "x": -76.18638,
-    "y": 121.03629,
+    "x": -1595.48,
+    "y": -128.734,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -88.4996,
-    "y": 134.64485,
+    "x": -1613.61,
+    "y": 234.076,
     "name": "Ritual: Frigid Expanse</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -111.077,
-    "y": 138.55023,
+    "x": -1352.27,
+    "y": 604.738,
     "name": "The Howling Den</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Howling Den"
   },
   {
-    "x": -99.60471,
-    "y": 136.79477,
+    "x": -1488.27,
+    "y": 419.598,
     "name": "The Infested Mill</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Infested Mill"
   },
   {
-    "x": -107.78465,
-    "y": 142.50835,
+    "x": -1453.75,
+    "y": 614.056,
     "name": "The Tsepilova Larder</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Tsepilova Larder"
   },
   {
-    "x": -90.017426,
-    "y": 154.71825,
+    "x": -1873.32,
+    "y": 536.274,
     "name": "The Collapsed Cavern Entrance</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Collapsed Cavern Entrance"
   },
   {
-    "x": -89.7171,
-    "y": 149.871,
+    "x": -1809.68,
+    "y": 464.227,
     "name": "The Saint&#39;s Rest</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Saint&#39;s Rest"
   },
   {
-    "x": -85.433235,
-    "y": 148.10065,
+    "x": -1844.86,
+    "y": 379.49,
     "name": "The Saint&#39;s Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Saint&#39;s Hideout"
   },
   {
-    "x": -95.07553,
-    "y": 127.063515,
+    "x": -1415.46,
+    "y": 220.004,
     "name": "The Savina Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Savina Hideout"
   },
   {
-    "x": -107.57745,
-    "y": 129.66855,
+    "x": -1276.94,
+    "y": 431.446,
     "name": "The Flooded Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Flooded Mine"
   },
   {
-    "x": -108.38144,
-    "y": 119.83477,
+    "x": -1128.05,
+    "y": 305.062,
     "name": "The Hermit&#39;s Abode</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Hermit&#39;s Abode"
   },
   {
-    "x": -105.70778,
-    "y": 126.464966,
+    "x": -1258.27,
+    "y": 360.439,
     "name": "The Disturbed Grave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Disturbed Grave"
   },
   {
-    "x": -104.28123,
-    "y": 113.294624,
+    "x": -1093.9,
+    "y": 156.136,
     "name": "The Infested Cottage</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Infested Cottage"
   },
   {
-    "x": -98.85173,
-    "y": 117.57125,
+    "x": -1229.75,
+    "y": 140.0,
     "name": "The Frozen Tunnel</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Frozen Tunnel"
   },
   {
-    "x": -108.91222,
-    "y": 103.67826,
+    "x": -894.489,
+    "y": 86.3589,
     "name": "The Haunted Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Haunted Burrow"
   },
   {
-    "x": -106.92589,
-    "y": 117.51185,
+    "x": -1115.91,
+    "y": 252.177,
     "name": "The Forsaken Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Forsaken Mine"
   },
   {
-    "x": -87.88056,
-    "y": 111.50564,
+    "x": -1298.41,
+    "y": -98.4526,
     "name": "The Lakeside Retreat</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Lakeside Retreat"
   },
   {
-    "x": -96.490135,
-    "y": 114.590904,
+    "x": -1221.09,
+    "y": 65.2323,
     "name": "Frostbite Trails Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Frostbite Trails Cavern"
   },
   {
-    "x": -102.45395,
-    "y": 108.839516,
+    "x": -1057.12,
+    "y": 68.2055,
     "name": "Oleg&#39;s Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Oleg&#39;s Hideout"
   },
   {
-    "x": -90.62274,
-    "y": 109.71022,
+    "x": -1234.9,
+    "y": -85.2014,
     "name": "The Blacklung Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Blacklung Mine"
   },
   {
-    "x": -86.97106,
-    "y": 107.69038,
+    "x": -1257.74,
+    "y": -164.582,
     "name": "The Secluded Cabin</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Secluded Cabin"
   },
   {
-    "x": -84.52035,
-    "y": 138.54051,
+    "x": -1723.83,
+    "y": 232.906,
     "name": "The Velkhova Inn</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Velkhova Inn"
   },
   {
-    "x": -83.31089,
-    "y": 130.28993,
+    "x": -1625.28,
+    "y": 100.5,
     "name": "The Geyser Sinkhole</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Geyser Sinkhole"
   },
   {
-    "x": -98.27112,
-    "y": 144.60857,
+    "x": -1616.3,
+    "y": 510.297,
     "name": "The Gruesome Storage</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Gruesome Storage"
   },
   {
-    "x": -96.686844,
-    "y": 140.20856,
+    "x": -1576.89,
+    "y": 426.539,
     "name": "The Bloodstained Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Bloodstained Cellar"
   },
   {
-    "x": -75.23795,
-    "y": 125.73649,
+    "x": -1674.54,
+    "y": -76.2231,
     "name": "The Gamblers Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Gambler&#39;s Hideout"
   },
   {
-    "x": -82.75675,
-    "y": 123.885704,
+    "x": -1543.4,
+    "y": 3.10843,
     "name": "The Icy Grave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Icy Grave"
   },
   {
-    "x": -78.5784,
-    "y": 109.79046,
+    "x": -1404.6,
+    "y": -252.655,
     "name": "The Frosty Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Frosty Mine"
   },
   {
-    "x": -125.163795,
-    "y": 142.90662,
+    "x": -1216.08,
+    "y": 862.875,
     "name": "Harvest: The Writhing Mire</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -154.91393,
-    "y": 132.11752,
+    "x": -648.679,
+    "y": 1128.26,
     "name": "Harvest: Forsaken Coast</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -148.91957,
-    "y": 87.10354,
+    "x": -102.547,
+    "y": 414.33,
     "name": "Harvest: Umir Plateau</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -143.07043,
-    "y": 151.25148,
+    "x": -1082.25,
+    "y": 1230.3,
     "name": "Harvest: Rotspill Delta</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -157.49007,
-    "y": 113.02856,
+    "x": -345.447,
+    "y": 897.141,
     "name": "Harvest: Toxic Fens</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -128.70233,
-    "y": 127.38839,
+    "x": -949.355,
+    "y": 695.203,
     "name": "Harvest: Blightmarsh</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -116.2261,
-    "y": 108.31701,
+    "x": -857.047,
+    "y": 253.652,
     "name": "Harvest: Dismal Foothills</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -136.81627,
-    "y": 110.69406,
+    "x": -602.13,
+    "y": 575.109,
     "name": "Harvest: Fethis Wetlands</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -115.08327,
-    "y": 135.04596,
+    "x": -1247.15,
+    "y": 611.764,
     "name": "Fetid Mausoleum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Fetid Mausoleum"
   },
   {
-    "x": -154.88339,
-    "y": 138.17606,
+    "x": -733.904,
+    "y": 1212.63,
     "name": "Faceless Shrine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Faceless Shrine"
   },
   {
-    "x": -128.97743,
-    "y": 93.582085,
+    "x": -472.34,
+    "y": 225.889,
     "name": "Ancient Reservoir</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Bastion of Faith"
   },
   {
-    "x": -131.08348,
-    "y": 89.34848,
+    "x": -383.608,
+    "y": 196.111,
     "name": "Lost Keep</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Lost Keep"
   },
   {
-    "x": -147.40573,
-    "y": 85.14897,
+    "x": -96.3786,
+    "y": 365.785,
     "name": "Earthen Wound</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Earthen Wound"
   },
   {
-    "x": -132.65575,
-    "y": 93.39496,
+    "x": -418.238,
+    "y": 274.753,
     "name": "Endless Gates</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Endless Gates"
   },
   {
-    "x": -142.21986,
-    "y": 150.95676,
+    "x": -1090.03,
+    "y": 1214.27,
     "name": "Belfry Zakara</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Belfry Zakara"
   },
   {
-    "x": -132.21596,
-    "y": 139.63322,
+    "x": -1071.56,
+    "y": 915.764,
     "name": "Haunted Refuge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Haunted Refuge"
   },
   {
-    "x": -125.43904,
-    "y": 144.24072,
+    "x": -1230.9,
+    "y": 885.4,
     "name": "Ancient Reservoir</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Ancient Reservoir"
   },
   {
-    "x": -148.77386,
-    "y": 121.02315,
+    "x": -579.337,
+    "y": 887.041,
     "name": "Shadowed Plunge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Shadowed Plunge"
   },
   {
-    "x": -160.77728,
-    "y": 125.42609,
+    "x": -472.958,
+    "y": 1116.67,
     "name": "Ghoa Ruins</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Ghoa Ruins"
   },
   {
-    "x": -160.51671,
-    "y": 118.54121,
+    "x": -380.242,
+    "y": 1016.66,
     "name": "Leviathan&#39;s Maw</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Leviathan&#39;s Maw"
   },
   {
-    "x": -152.04865,
-    "y": 110.84178,
+    "x": -391.0,
+    "y": 790.374,
     "name": "Banes of Eridu</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Banes of Eridu"
   },
   {
-    "x": -139.50133,
-    "y": 125.841805,
+    "x": -776.562,
+    "y": 824.703,
     "name": "Serpent&#39;s Lair</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Serpent&#39;s Lair"
   },
   {
-    "x": -147.60623,
-    "y": 123.432594,
+    "x": -629.403,
+    "y": 904.422,
     "name": "Infested Estate</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Infested Estate"
   },
   {
-    "x": -115.00896,
-    "y": 116.799965,
+    "x": -992.813,
+    "y": 355.347,
     "name": "Heathen&#39;s Keep</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Heathen&#39;s Keep"
   },
   {
-    "x": -114.906296,
-    "y": 109.43227,
+    "x": -891.129,
+    "y": 250.789,
     "name": "Light&#39;s Refuge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Light&#39;s Refuge"
   },
   {
-    "x": -112.89805,
-    "y": 128.12665,
+    "x": -1180.89,
+    "y": 484.334,
     "name": "Oblivion</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Oblivion"
   },
   {
-    "x": -145.53902,
-    "y": 107.12187,
+    "x": -430.046,
+    "y": 647.198,
     "name": "Blind Burrows</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Blind Burrows"
   },
   {
-    "x": -143.30032,
-    "y": 114.806984,
+    "x": -568.943,
+    "y": 723.428,
     "name": "Maugan&#39;s Works</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Maugan&#39;s Works"
   },
   {
-    "x": -132.62453,
-    "y": 116.50771,
+    "x": -742.169,
+    "y": 597.81,
     "name": "Akkan&#39;s Grasp</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Akkan&#39;s Grasp"
   },
   {
-    "x": -131.51149,
-    "y": 119.16545,
+    "x": -794.946,
+    "y": 619.43,
     "name": "Iron Hold</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Iron Hold"
   },
   {
-    "x": -133.3569,
-    "y": 117.542595,
+    "x": -746.403,
+    "y": 622.545,
     "name": "Steadfast Barracks</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Steadfast Barracks"
   },
   {
-    "x": -151.95193,
-    "y": 98.52466,
+    "x": -219.959,
+    "y": 616.626,
     "name": "World Boss</br>Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location.</br>Slay the World Boss"
   },
   {
-    "x": -127.56256,
-    "y": 94.01412,
+    "x": -498.19,
+    "y": 212.133,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -163.70747,
-    "y": 135.64932,
+    "x": -575.034,
+    "y": 1300.77,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -132.75139,
-    "y": 128.76439,
+    "x": -911.942,
+    "y": 771.134,
     "name": "Serpent&#39;s Edge</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Serpent&#39;s Edge"
   },
   {
-    "x": -122.989334,
-    "y": 138.34868,
+    "x": -1182.72,
+    "y": 768.646,
     "name": "Scalespeaker</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Scalespeaker"
   },
   {
-    "x": -138.76717,
-    "y": 147.15112,
+    "x": -1085.09,
+    "y": 1112.68,
     "name": "Swamp Hexxer</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Swamp Hexxer"
   },
   {
-    "x": -127.167145,
-    "y": 150.28923,
+    "x": -1291.37,
+    "y": 994.244,
     "name": "Flotsam King</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Flotsam King"
   },
   {
-    "x": -148.52759,
-    "y": 138.21521,
+    "x": -823.41,
+    "y": 1124.22,
     "name": "Cursed Mutineer</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Cursed Mutineer"
   },
   {
-    "x": -158.10823,
-    "y": 141.98378,
+    "x": -742.062,
+    "y": 1311.06,
     "name": "Gibbering Dead</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Gibbering Dead"
   },
   {
-    "x": -142.88547,
-    "y": 119.139656,
+    "x": -635.391,
+    "y": 778.263,
     "name": "Mad Bomber</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Mad Bomber"
   },
   {
-    "x": -143.01375,
-    "y": 108.30007,
+    "x": -481.881,
+    "y": 628.344,
     "name": "Devoured One</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Devoured One"
   },
   {
-    "x": -139.61746,
-    "y": 96.22459,
+    "x": -360.404,
+    "y": 411.796,
     "name": "Lost Pilgrim</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Lost Pilgrim"
   },
   {
-    "x": -128.9439,
-    "y": 137.52075,
+    "x": -1087.79,
+    "y": 840.4,
     "name": "Shadow in the Reeds</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Shadow in the Reeds"
   },
   {
-    "x": -148.30353,
-    "y": 128.59357,
+    "x": -691.878,
+    "y": 986.416,
     "name": "Scaled Siren</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Scaled Siren"
   },
   {
-    "x": -116.790215,
-    "y": 125.26561,
+    "x": -1086.37,
+    "y": 498.766,
     "name": "Arbor Eater</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Arbor Eater"
   },
   {
-    "x": -158.8759,
-    "y": 129.02078,
+    "x": -549.883,
+    "y": 1140.37,
     "name": "Consort of Arachyr</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Consort of Arachyr"
   },
   {
-    "x": -122.07466,
-    "y": 102.947495,
+    "x": -700.035,
+    "y": 260.357,
     "name": "Flesh Gorger</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Flesh Gorger"
   },
   {
-    "x": -131.8394,
-    "y": 91.333275,
+    "x": -400.808,
+    "y": 234.471,
     "name": "Spectral Assassin</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Spectral Assassin"
   },
   {
-    "x": -154.95361,
-    "y": 113.49483,
+    "x": -387.474,
+    "y": 868.166,
     "name": "Chieftain of the Rotting Halls</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Chieftain of the Rotting Halls"
   },
   {
-    "x": -155.18082,
-    "y": 104.56191,
+    "x": -259.266,
+    "y": 746.318,
     "name": "Cull Fethis Wetlands Demons</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Demons: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -158.95938,
-    "y": 121.617516,
+    "x": -445.096,
+    "y": 1037.92,
     "name": "Cull Toxic Fens Snakes</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Snakes: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -152.60051,
-    "y": 134.69315,
+    "x": -717.108,
+    "y": 1131.93,
     "name": "Cull Forsaken Coast Bandits</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Bandits: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -131.94981,
-    "y": 144.97571,
+    "x": -1150.06,
+    "y": 986.814,
     "name": "Cull Rotspill Delta Zombies</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Zombies: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -117.66837,
-    "y": 136.48291,
+    "x": -1231.08,
+    "y": 668.058,
     "name": "Cull Writhing Mire Ghosts</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Ghosts: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -131.22945,
-    "y": 126.25212,
+    "x": -898.081,
+    "y": 714.67,
     "name": "Cull Blightmarsh Cultists</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Cultists: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -118.27063,
-    "y": 122.7357,
+    "x": -1030.24,
+    "y": 484.077,
     "name": "Cull Dismal Foothills Fallen</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Fallen: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -126.6061,
-    "y": 114.87829,
+    "x": -803.599,
+    "y": 490.768,
     "name": "Cull Dismal Foothill Zombies</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Zombies: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -140.71832,
-    "y": 81.51696,
+    "x": -139.143,
+    "y": 221.351,
     "name": "Cull Umir Plateau Spiders</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Spiders: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -140.17468,
-    "y": 93.504036,
+    "x": -314.527,
+    "y": 381.517,
     "name": "Umir Plateau Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of Umir Plateau: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -133.9609,
-    "y": 144.21822,
+    "x": -1111.31,
+    "y": 1004.36,
     "name": "Rotspill Delta Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of Rotspill Delta: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -157.76967,
-    "y": 127.0169,
+    "x": -537.319,
+    "y": 1096.84,
     "name": "Toxic Fens Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of Toxic Fens: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -141.9419,
-    "y": 130.63263,
+    "x": -809.457,
+    "y": 925.916,
     "name": "Blightmarsh Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of Blightmarsh: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -122.869514,
-    "y": 115.372536,
+    "x": -862.815,
+    "y": 445.387,
     "name": "Dismal Foothills Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of Dismal Foothills: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -144.90535,
-    "y": 111.15021,
+    "x": -495.297,
+    "y": 694.711,
     "name": "Fethis Wetlands Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of Fethis Wetlands: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -124.5087,
-    "y": 131.45012,
+    "x": -1064.9,
+    "y": 693.357,
     "name": "The Writhing Mire Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -141.1932,
-    "y": 139.75165,
+    "x": -947.569,
+    "y": 1043.07,
     "name": "Forsaken Coast Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -156.26599,
-    "y": 140.28793,
+    "x": -744.111,
+    "y": 1261.54,
     "name": "The Rustwash Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -141.9385,
-    "y": 84.12943,
+    "x": -158.63,
+    "y": 274.994,
     "name": "Umir Plateau Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -138.21982,
-    "y": 100.229645,
+    "x": -436.022,
+    "y": 448.29,
     "name": "Faith&#39;s Edge Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -132.31206,
-    "y": 96.779884,
+    "x": -470.425,
+    "y": 317.319,
     "name": "Nymyr Highlands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -150.15816,
-    "y": 93.46888,
+    "x": -174.303,
+    "y": 520.757,
     "name": "The Fallow Tillage Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -130.57468,
-    "y": 152.17207,
+    "x": -1270.03,
+    "y": 1068.29,
     "name": "Bosun&#39;s Wail Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -137.55571,
-    "y": 136.99382,
+    "x": -959.881,
+    "y": 953.559,
     "name": "The Endless Decay Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -131.27547,
-    "y": 142.00574,
+    "x": -1117.93,
+    "y": 935.807,
     "name": "Rotspill Delta Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -155.38773,
-    "y": 124.91052,
+    "x": -541.176,
+    "y": 1034.02,
     "name": "Ottvik&#39;s Travail Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -161.1003,
-    "y": 131.28183,
+    "x": -550.396,
+    "y": 1203.15,
     "name": "Molting Shore Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -151.66759,
-    "y": 127.84047,
+    "x": -634.253,
+    "y": 1022.96,
     "name": "The Dark Dross Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -132.21622,
-    "y": 133.42479,
+    "x": -984.661,
+    "y": 828.872,
     "name": "Corpsewail Deluge Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -143.27164,
-    "y": 124.55372,
+    "x": -705.763,
+    "y": 859.445,
     "name": "Blightmarsh Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -137.98167,
-    "y": 131.24417,
+    "x": -873.445,
+    "y": 879.047,
     "name": "Blightmarsh Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -117.23211,
-    "y": 118.65782,
+    "x": -987.7,
+    "y": 412.466,
     "name": "Dismal Foothills Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -125.494026,
-    "y": 119.41934,
+    "x": -882.722,
+    "y": 538.761,
     "name": "Bloodpox Basin Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -123.9952,
-    "y": 107.57546,
+    "x": -737.929,
+    "y": 352.012,
     "name": "Path of Desperation Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -150.90663,
-    "y": 106.82201,
+    "x": -350.722,
+    "y": 718.128,
     "name": "Plains of Attrition Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -137.51685,
-    "y": 114.091194,
+    "x": -639.872,
+    "y": 632.462,
     "name": "The Devouring Moor Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -143.14528,
-    "y": 109.60163,
+    "x": -498.257,
+    "y": 648.402,
     "name": "Light&#39;s Wane Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -135.15565,
-    "y": 88.57481,
+    "x": -315.784,
+    "y": 242.278,
     "name": "Unholy Altar Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -162.99069,
-    "y": 123.54562,
+    "x": -415.659,
+    "y": 1121.33,
     "name": "The Infested Derelicts Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -145.19893,
-    "y": 115.30422,
+    "x": -549.329,
+    "y": 756.961,
     "name": "Maugan&#39;s Folly Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -140.93146,
-    "y": 90.72094,
+    "x": -264.982,
+    "y": 353.156,
     "name": "Ritual: Umir Plateau</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -118.86526,
-    "y": 137.0932,
+    "x": -1222.87,
+    "y": 693.352,
     "name": "The Sunken Hut</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Sunken Hut"
   },
   {
-    "x": -126.37032,
-    "y": 138.61813,
+    "x": -1139.17,
+    "y": 819.739,
     "name": "The Swamp Nest</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Swamp Nest"
   },
   {
-    "x": -119.89874,
-    "y": 146.33026,
+    "x": -1337.69,
+    "y": 837.102,
     "name": "The Mire Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Mire Hideout"
   },
   {
-    "x": -122.803535,
-    "y": 130.19008,
+    "x": -1071.13,
+    "y": 651.855,
     "name": "The Tormented Pit</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Tormented Pit"
   },
   {
-    "x": -159.39778,
-    "y": 144.1244,
+    "x": -753.974,
+    "y": 1359.07,
     "name": "The Tidal Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Tidal Burrow"
   },
   {
-    "x": -157.8518,
-    "y": 135.19336,
+    "x": -650.61,
+    "y": 1212.43,
     "name": "The Waterlogged Grave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Waterlogged Grave"
   },
   {
-    "x": -145.46942,
-    "y": 136.99155,
+    "x": -849.086,
+    "y": 1064.29,
     "name": "The Aya&#39;s Hideaway</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Aya&#39;s Hideaway"
   },
   {
-    "x": -147.04659,
-    "y": 145.3827,
+    "x": -944.457,
+    "y": 1203.81,
     "name": "The Fetid Hive</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Fetid Hive"
   },
   {
-    "x": -145.24919,
-    "y": 82.2534,
+    "x": -86.0348,
+    "y": 295.074,
     "name": "The Rocky Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Rocky Burrow"
   },
   {
-    "x": -136.11795,
-    "y": 97.98981,
+    "x": -434.091,
+    "y": 387.522,
     "name": "The Holy Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Holy Hideout"
   },
   {
-    "x": -151.97455,
-    "y": 91.82951,
+    "x": -125.935,
+    "y": 523.235,
     "name": "The Commandeered Lodge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Commandeered Lodge"
   },
   {
-    "x": -131.29594,
-    "y": 148.5572,
+    "x": -1209.34,
+    "y": 1027.79,
     "name": "The Shipwreck Shack</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Shipwreck Shack"
   },
   {
-    "x": -123.815445,
-    "y": 149.00879,
+    "x": -1320.36,
+    "y": 929.411,
     "name": "The Flooded Burial Pit</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Flooded Burial Pit"
   },
   {
-    "x": -138.45387,
-    "y": 148.36465,
+    "x": -1106.46,
+    "y": 1125.28,
     "name": "The Swamp Hovel</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Swamp Hovel"
   },
   {
-    "x": -136.43306,
-    "y": 137.72623,
+    "x": -985.845,
+    "y": 948.097,
     "name": "The Decaying Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Decaying Cavern"
   },
   {
-    "x": -159.2976,
-    "y": 117.9707,
+    "x": -389.32,
+    "y": 991.612,
     "name": "The Rotting Cave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Rotting Cave"
   },
   {
-    "x": -160.31342,
-    "y": 128.55708,
+    "x": -523.273,
+    "y": 1154.0,
     "name": "The Shoreside Shack</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Shoreside Shack"
   },
   {
-    "x": -151.32538,
-    "y": 112.29029,
+    "x": -421.397,
+    "y": 800.525,
     "name": "The Toxic Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Toxic Mine"
   },
   {
-    "x": -131.72775,
-    "y": 129.63597,
+    "x": -938.468,
+    "y": 769.006,
     "name": "The Slimy Cave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Slimy Cave"
   },
   {
-    "x": -145.81984,
-    "y": 131.57887,
+    "x": -768.424,
+    "y": 993.437,
     "name": "The Bleak Basement</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Bleak Basement"
   },
   {
-    "x": -153.51881,
-    "y": 126.33932,
+    "x": -587.332,
+    "y": 1027.86,
     "name": "The Swarmed Mineshaft</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Swarmed Mineshaft"
   },
   {
-    "x": -127.95956,
-    "y": 112.09639,
+    "x": -745.719,
+    "y": 470.775,
     "name": "The Bloodpox Infestation</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Bloodpox Infestation"
   },
   {
-    "x": -119.75005,
-    "y": 121.17212,
+    "x": -987.649,
+    "y": 482.899,
     "name": "The Cinder Shack</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Cinder Shack"
   },
   {
-    "x": -121.12974,
-    "y": 104.60675,
+    "x": -736.484,
+    "y": 270.355,
     "name": "The Feeding Den</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Feeding Den"
   },
   {
-    "x": -114.38916,
-    "y": 106.72355,
+    "x": -860.455,
+    "y": 205.639,
     "name": "The Mountain Storeroom</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Mountain Storeroom"
   },
   {
-    "x": -149.32939,
-    "y": 100.487236,
+    "x": -284.134,
+    "y": 607.389,
     "name": "The Desecrated Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Bloodpox Infestation"
   },
   {
-    "x": -135.75853,
-    "y": 107.921364,
+    "x": -578.127,
+    "y": 521.497,
     "name": "The Dark Catacomb</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Dark Catacomb"
   },
   {
-    "x": -156.18501,
-    "y": 102.69328,
+    "x": -219.057,
+    "y": 734.219,
     "name": "The Cursed Cabin</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Cursed Cabin"
   },
   {
-    "x": -140.54324,
-    "y": 118.896484,
+    "x": -664.77,
+    "y": 742.077,
     "name": "The Swamped Hideout</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Swamped Hideout"
   },
   {
-    "x": -114.931015,
-    "y": 74.84851,
+    "x": -406.737,
+    "y": -232.911,
     "name": "World Boss</br>Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location.</br>Slay the World Boss"
   },
   {
-    "x": -122.43547,
-    "y": 65.25856,
+    "x": -167.478,
+    "y": -262.1,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -134.18765,
-    "y": 41.958878,
+    "x": 323.12,
+    "y": -423.723,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -146.89551,
-    "y": 68.1121,
+    "x": 134.934,
+    "y": 120.19,
     "name": "{c_red}PvP{/c}: Fields of Hatred Events</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete any event in the region"
   },
   {
-    "x": -142.25804,
-    "y": 60.71498,
+    "x": 173.559,
+    "y": -48.2504,
     "name": "{c_red}PvP:{/c} Purify Seeds of Hatred</br>The power of the Seeds of Hatred has intrigued the Tree of Whispers.</br>Complete a ritual at an Altar of Extraction"
   },
   {
-    "x": -147.93358,
-    "y": 61.522537,
+    "x": 241.693,
+    "y": 42.4891,
     "name": "{c_red}PvP:{/c} Seething Abomination</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Defeat the {MONSTER}"
   },
   {
-    "x": -120.364685,
-    "y": 44.391724,
+    "x": 95.5981,
+    "y": -583.143,
     "name": "Harvest: Amber Sands</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -151.79073,
-    "y": 39.00641,
+    "x": 610.822,
+    "y": -218.668,
     "name": "Harvest: Southern Expanse</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -119.40968,
-    "y": 32.28717,
+    "x": 251.651,
+    "y": -765.929,
     "name": "Harvest: Ragged Coastline</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -125.552505,
-    "y": 78.51382,
+    "x": -309.376,
+    "y": -32.9479,
     "name": "Harvest: Scouring Sands</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -129.21921,
-    "y": 47.157516,
+    "x": 180.818,
+    "y": -420.501,
     "name": "Harvest: Caldeum</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -115.01435,
-    "y": 87.54249,
+    "x": -583.24,
+    "y": -54.0751,
     "name": "Cull Scouring Sands Skeletons</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Skeletons: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -129.24675,
-    "y": 27.672165,
+    "x": 453.927,
+    "y": -692.839,
     "name": "Cull Ragged Coastline Bandits</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Bandits: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -114.256966,
-    "y": 38.888336,
+    "x": 87.1397,
+    "y": -745.656,
     "name": "Cull Amber Sands Scorpions</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Scorpions: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -150.53618,
-    "y": 40.660004,
+    "x": 570.119,
+    "y": -213.083,
     "name": "Cull Southern Expanse Flies</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Flies: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -130.11792,
-    "y": 44.8331,
+    "x": 225.93,
+    "y": -440.456,
     "name": "Cull Caldeum Demons</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Demons: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -131.2173,
-    "y": 51.376114,
+    "x": 149.739,
+    "y": -333.49,
     "name": "Cull Caldeum Knights</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Knights: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -134.93578,
-    "y": 31.20993,
+    "x": 484.037,
+    "y": -563.698,
     "name": "Sandpox Incubator</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Sandpox Incubator"
   },
   {
-    "x": -130.25342,
-    "y": 52.02101,
+    "x": 127.222,
+    "y": -337.955,
     "name": "Savage Pupil</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Savage Pupil"
   },
   {
-    "x": -119.525856,
-    "y": 71.5445,
+    "x": -296.182,
+    "y": -214.844,
     "name": "Desert&#39;s Kiss</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Desert&#39;s Kiss"
   },
   {
-    "x": -139.84845,
-    "y": 40.975082,
+    "x": 416.12,
+    "y": -358.262,
     "name": "Triune Dark Spawn</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Triune Dark Spawn"
   },
   {
-    "x": -108.27009,
-    "y": 35.051575,
+    "x": 57.0459,
+    "y": -883.151,
     "name": "Briny Corsair</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Briny Corsair"
   },
   {
-    "x": -111.11601,
-    "y": 54.04129,
+    "x": -168.908,
+    "y": -577.532,
     "name": "Dune Pounder</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Dune Pounder"
   },
   {
-    "x": -123.275406,
-    "y": 29.385544,
+    "x": 346.369,
+    "y": -752.435,
     "name": "Bleached Bulwark</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Bleached Bulwark"
   },
   {
-    "x": -150.9066,
-    "y": 44.398224,
+    "x": 522.982,
+    "y": -155.577,
     "name": "Moonclan Rockhoof</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Moonclan Rockhoof"
   },
   {
-    "x": -130.06032,
-    "y": 64.19266,
+    "x": -45.8391,
+    "y": -170.299,
     "name": "The Ever-Parched</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Ever-Parched"
   },
   {
-    "x": -129.68813,
-    "y": 43.610596,
+    "x": 237.025,
+    "y": -463.582,
     "name": "Hellborn Despoiler</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Hellborn Despoiler"
   },
   {
-    "x": -140.8699,
-    "y": 48.76529,
+    "x": 321.382,
+    "y": -234.931,
     "name": "Deserted Underpass</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Deserted Underpass"
   },
   {
-    "x": -122.915855,
-    "y": 47.156433,
+    "x": 92.6092,
+    "y": -508.74,
     "name": "Yshari Sanctum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Yshari Sanctum"
   },
   {
-    "x": -127.44521,
-    "y": 49.442154,
+    "x": 124.012,
+    "y": -413.354,
     "name": "Crusaders&#39; Cathedral</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Crusaders&#39; Cathedral"
   },
   {
-    "x": -133.18271,
-    "y": 45.25534,
+    "x": 262.916,
+    "y": -391.65,
     "name": "Prison of Caldeum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Prison of Caldeum"
   },
   {
-    "x": -131.73102,
-    "y": 55.937866,
+    "x": 93.0812,
+    "y": -262.452,
     "name": "Renegades&#39; Retreat</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Renegades&#39; Retreat"
   },
   {
-    "x": -118.944595,
-    "y": 55.73854,
+    "x": -83.0921,
+    "y": -444.205,
     "name": "Collapsed Vault</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Collapsed Vault"
   },
   {
-    "x": -106.99684,
-    "y": 36.472717,
+    "x": 19.3342,
+    "y": -881.081,
     "name": "Tomb of the Saints</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Tomb of the Saints"
   },
   {
-    "x": -112.337944,
-    "y": 62.05841,
+    "x": -264.016,
+    "y": -448.219,
     "name": "Inferno</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Inferno"
   },
   {
-    "x": -121.044395,
-    "y": 42.739548,
+    "x": 128.236,
+    "y": -596.754,
     "name": "Sunken Library</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Sunken Library"
   },
   {
-    "x": -110.01833,
-    "y": 50.63092,
+    "x": -136.539,
+    "y": -640.628,
     "name": "Raided Halls</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Raided Halls"
   },
   {
-    "x": -138.19974,
-    "y": 43.539032,
+    "x": 357.158,
+    "y": -345.452,
     "name": "Conclave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Conclave"
   },
   {
-    "x": -144.5394,
-    "y": 36.890717,
+    "x": 538.942,
+    "y": -349.772,
     "name": "Hakan&#39;s Refuge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Hakan&#39;s Refuge"
   },
   {
-    "x": -146.1675,
-    "y": 47.934082,
+    "x": 407.163,
+    "y": -172.418,
     "name": "Crumbling Hekma</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Crumbling Hekma"
   },
   {
-    "x": -129.12209,
-    "y": 32.360275,
+    "x": 386.566,
+    "y": -628.968,
     "name": "Uldur&#39;s Cave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Uldur&#39;s Cave"
   },
   {
-    "x": -125.46512,
-    "y": 31.255188,
+    "x": 350.849,
+    "y": -695.619,
     "name": "Forgotten Ruins</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Forgotten Ruins"
   },
   {
-    "x": -135.99373,
-    "y": 31.979172,
+    "x": 488.078,
+    "y": -538.124,
     "name": "Corrupted Grotto</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Corrupted Grotto"
   },
   {
-    "x": -128.9282,
-    "y": 41.00598,
+    "x": 262.844,
+    "y": -510.673,
     "name": "Putrid Aquifer</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Putrid Aquifer"
   },
   {
-    "x": -132.8302,
-    "y": 19.115005,
+    "x": 623.851,
+    "y": -762.453,
     "name": "Heretic&#39;s Asylum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Heretic&#39;s Asylum"
   },
   {
-    "x": -137.96933,
-    "y": 67.92142,
+    "x": 12.669,
+    "y": -7.41283,
     "name": "Abandoned Mineworks</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Abandoned Mineworks"
   },
   {
-    "x": -114.51222,
-    "y": 69.44998,
+    "x": -337.039,
+    "y": -314.332,
     "name": "Sirocco Caverns</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Sirocco Caverns"
   },
   {
-    "x": -125.5978,
-    "y": 88.61367,
+    "x": -450.103,
+    "y": 109.047,
     "name": "Halls of the Damned</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Halls of the Damned"
   },
   {
-    "x": -113.71951,
-    "y": 96.280426,
+    "x": -723.662,
+    "y": 50.1009,
     "name": "Fading Echo</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Fading Echo"
   },
   {
-    "x": -137.08258,
-    "y": 46.250107,
+    "x": 303.577,
+    "y": -323.143,
     "name": "Southern Expanse Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -127.85686,
-    "y": 45.003952,
+    "x": 191.892,
+    "y": -469.711,
     "name": "Residential District Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -109.706314,
-    "y": 36.363693,
+    "x": 58.7828,
+    "y": -844.684,
     "name": "Forgotten Coastline Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -115.49968,
-    "y": 39.82419,
+    "x": 91.4346,
+    "y": -715.164,
     "name": "Searing Expanse Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -107.38193,
-    "y": 54.47235,
+    "x": -227.205,
+    "y": -623.762,
     "name": "Lut Bahadur Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -133.13385,
-    "y": 68.90084,
+    "x": -68.7183,
+    "y": -61.3834,
     "name": "Rusted Sands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -122.9456,
-    "y": 69.73974,
+    "x": -223.058,
+    "y": -192.24,
     "name": "Dunes of Sorrow Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -114.27196,
-    "y": 94.67066,
+    "x": -693.399,
+    "y": 35.3023,
     "name": "Outer Gardens Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -116.06108,
-    "y": 86.63879,
+    "x": -555.941,
+    "y": -52.0734,
     "name": "Scouring Sands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -128.53656,
-    "y": 73.58917,
+    "x": -198.683,
+    "y": -60.1091,
     "name": "Ridge Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Scouring Sands: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -132.86603,
-    "y": 28.401337,
+    "x": 494.378,
+    "y": -631.977,
     "name": "Scorched Gulch Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -137.27379,
-    "y": 34.74974,
+    "x": 467.216,
+    "y": -481.43,
     "name": "Scorched Plateau Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -131.36845,
-    "y": 20.508224,
+    "x": 583.892,
+    "y": -763.412,
     "name": "Howling Stronghold Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -139.04247,
-    "y": 31.494675,
+    "x": 537.53,
+    "y": -502.234,
     "name": "Pale Sands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -152.38812,
-    "y": 41.164154,
+    "x": 588.983,
+    "y": -180.106,
     "name": "Eastern Basin Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -142.71143,
-    "y": 41.417404,
+    "x": 450.0,
+    "y": -312.0,
     "name": "Central Plateau Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -145.35614,
-    "y": 34.538284,
+    "x": 583.299,
+    "y": -371.266,
     "name": "Southern Expanse Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Southern Expanse: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -118.237976,
-    "y": 49.950974,
+    "x": -11.9773,
+    "y": -535.1,
     "name": "Ritual: Amber Sands</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -128.3165,
-    "y": 75.12292,
+    "x": -223.23,
+    "y": -41.7224,
     "name": "Ritual: Scouring Sands</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -133.20544,
-    "y": 57.134293,
+    "x": 96.9724,
+    "y": -225.07,
     "name": "The Deserted Textile Shop</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Deserted Textile Shop"
   },
   {
-    "x": -126.53372,
-    "y": 41.468674,
+    "x": 222.854,
+    "y": -537.711,
     "name": "The Penitent Temple</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Penitent Temple"
   },
   {
-    "x": -128.41307,
-    "y": 43.309784,
+    "x": 223.389,
+    "y": -485.638,
     "name": "The City Armory</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the City Armory"
   },
   {
-    "x": -133.49208,
-    "y": 49.142563,
+    "x": 212.839,
+    "y": -332.913,
     "name": "The Knight&#39;s Lodging</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Knight&#39;s Lodging"
   },
   {
-    "x": -111.310425,
-    "y": 33.41118,
+    "x": 122.559,
+    "y": -863.557,
     "name": "The Festering Tunnels</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Festering Tunnels"
   },
   {
-    "x": -103.7233,
-    "y": 42.008987,
+    "x": -103.971,
+    "y": -849.411,
     "name": "The Man-eater Remnant</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Man-eater Remnant"
   },
   {
-    "x": -111.357506,
-    "y": 58.299835,
+    "x": -225.132,
+    "y": -514.548,
     "name": "The Blighted Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Blighted Burrow"
   },
   {
-    "x": -126.638306,
-    "y": 58.829803,
+    "x": -18.6746,
+    "y": -293.255,
     "name": "The Ravaged Ruins</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Ravaged Ruins"
   },
   {
-    "x": -118.14718,
-    "y": 41.142517,
+    "x": 110.038,
+    "y": -659.657,
     "name": "The Foul Grotto</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Foul Grotto"
   },
   {
-    "x": -120.00197,
-    "y": 53.516724,
+    "x": -37.1952,
+    "y": -460.503,
     "name": "The Bone Dust Hollow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Bone Dust Hollow"
   },
   {
-    "x": -149.39363,
-    "y": 42.26889,
+    "x": 531.609,
+    "y": -206.556,
     "name": "Hakan&#39;s Hot Spring</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Hakan&#39;s Hot Spring"
   },
   {
-    "x": -153.86969,
-    "y": 37.144516,
+    "x": 665.98,
+    "y": -215.63,
     "name": "The Marauder&#39;s Hideaway</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Marauder&#39;s Hideaway"
   },
   {
-    "x": -139.24901,
-    "y": 41.427048,
+    "x": 401.404,
+    "y": -360.326,
     "name": "The Wicked Sanctum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Wicked Sanctum"
   },
   {
-    "x": -141.11246,
-    "y": 27.210587,
+    "x": 626.464,
+    "y": -533.223,
     "name": "The Webbed Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Webbed Burrow"
   },
   {
-    "x": -133.15099,
-    "y": 34.303986,
+    "x": 415.751,
+    "y": -545.373,
     "name": "The Festering Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Festering Burrow"
   },
   {
-    "x": -119.76321,
-    "y": 30.973755,
+    "x": 274.982,
+    "y": -779.364,
     "name": "The Forgotten Outpost</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Forgotten Outpost"
   },
   {
-    "x": -127.598465,
-    "y": 23.659622,
+    "x": 487.018,
+    "y": -772.07,
     "name": "The Sodden Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Sodden Cavern"
   },
   {
-    "x": -128.08942,
-    "y": 28.687836,
+    "x": 423.513,
+    "y": -694.822,
     "name": "Ravan&#39;s Folly</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Ravan&#39;s Folly"
   },
   {
-    "x": -133.4611,
-    "y": 70.484764,
+    "x": -86.3069,
+    "y": -34.634,
     "name": "The Raider&#39;s Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Raider&#39;s Mine"
   },
   {
-    "x": -118.57075,
-    "y": 68.276505,
+    "x": -263.81,
+    "y": -273.952,
     "name": "The Foul Den</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Foul Den"
   },
   {
-    "x": -115.790665,
-    "y": 81.4951,
+    "x": -487.733,
+    "y": -127.851,
     "name": "The Rank Vermin Nest</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Rank Vermin Nest"
   },
   {
-    "x": -118.40298,
-    "y": 90.40343,
+    "x": -575.854,
+    "y": 33.3957,
     "name": "The Sandy Ruins</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Sandy Ruins"
   },
   {
-    "x": -130.44063,
-    "y": 63.845993,
+    "x": -35.6641,
+    "y": -169.828,
     "name": "The Forlorn Cavern</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Forlorn Cavern"
   },
   {
-    "x": -112.9299,
-    "y": 95.60456,
+    "x": -725.254,
+    "y": 29.5897,
     "name": "The Hellish Pit</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Hellish Pit"
   },
   {
-    "x": -113.86348,
-    "y": 91.29147,
+    "x": -651.82,
+    "y": -17.7112,
     "name": "The Groundskeeper&#39;s Shed</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Groundskeeper&#39;s Shed"
   },
   {
-    "x": -56.218407,
-    "y": 126.31207,
+    "x": -1948.8,
+    "y": -334.371,
     "name": "Silent Knife</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Silent Knife"
   },
   {
-    "x": -45.37993,
-    "y": 101.391335,
+    "x": -1751.7,
+    "y": -834.869,
     "name": "Deranged Lumberjack</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Deranged Lumberjack"
   },
   {
-    "x": -22.473198,
-    "y": 105.29518,
+    "x": -2126.95,
+    "y": -1100.84,
     "name": "The Mastbreaker</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Mastbreaker"
   },
   {
-    "x": -42.933586,
-    "y": 128.88925,
+    "x": -2170.81,
+    "y": -484.239,
     "name": "Sputtering Madman</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Sputtering Madman"
   },
   {
-    "x": -28.465836,
-    "y": 88.92626,
+    "x": -1813.97,
+    "y": -1246.07,
     "name": "The Gurgling Ones</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Gurgling Ones"
   },
   {
-    "x": -63.907585,
-    "y": 146.06012,
+    "x": -2117.58,
+    "y": 49.6498,
     "name": "Blood Clan Enforcer</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Blood Clan Enforcer"
   },
   {
-    "x": -56.59001,
-    "y": 83.13584,
+    "x": -1339.29,
+    "y": -933.479,
     "name": "Restless Ancient</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Restless Ancient"
   },
   {
-    "x": -29.185509,
-    "y": 111.76888,
+    "x": -2123.61,
+    "y": -916.284,
     "name": "Eternal Runescribe</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Eternal Runescribe"
   },
   {
-    "x": -69.42143,
-    "y": 100.75424,
+    "x": -1406.29,
+    "y": -507.293,
     "name": "Eldhaime&#39;s Bane</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat Eldhaime&#39;s Bane"
   },
   {
-    "x": -51.884888,
-    "y": 138.99942,
+    "x": -2187.03,
+    "y": -217.448,
     "name": "Alpha Bloodspawn</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Alpha Bloodspawn"
   },
   {
-    "x": -62.853073,
-    "y": 124.768166,
+    "x": -1834.33,
+    "y": -263.119,
     "name": "Voracious Shadow</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Voracious Shadow"
   },
   {
-    "x": -55.95302,
-    "y": 77.479706,
+    "x": -1269.04,
+    "y": -1021.56,
     "name": "Infested Oak</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Infested Oak"
   },
   {
-    "x": -62.58732,
-    "y": 118.27364,
+    "x": -1747.15,
+    "y": -357.738,
     "name": "The Bloodletter</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat The Bloodletter"
   },
   {
-    "x": -68.02343,
-    "y": 129.20691,
+    "x": -1824.09,
+    "y": -128.627,
     "name": "Ravenous Corpse-Eater</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Ravenous Corpse-Eater"
   },
   {
-    "x": -59.010567,
-    "y": 95.481865,
+    "x": -1478.21,
+    "y": -726.801,
     "name": "Vindictive Sacrifice</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Vindictive Sacrifice"
   },
   {
-    "x": -52.710533,
-    "y": 117.90934,
+    "x": -1880.29,
+    "y": -501.076,
     "name": "The Decomposer</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Decomposer"
   },
   {
-    "x": -30.243797,
-    "y": 96.301414,
+    "x": -1892.31,
+    "y": -1117.96,
     "name": "Cull Northshore Ghosts</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Ghosts: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -45.882164,
-    "y": 88.87731,
+    "x": -1569.52,
+    "y": -1002.99,
     "name": "Cull Deep Forest Werewolves</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Werewolves: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -63.824684,
-    "y": 114.62544,
+    "x": -1678.77,
+    "y": -391.481,
     "name": "Cull The Downs Spiders</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Spiders: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -45.936897,
-    "y": 105.439224,
+    "x": -1800.56,
+    "y": -770.418,
     "name": "Cull High Forest Goatmen</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Goatmen: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -66.14532,
-    "y": 146.1387,
+    "x": -2087.36,
+    "y": 82.0698,
     "name": "Cull Highland Wilds Fallen</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Fallen: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -32.58716,
-    "y": 110.46642,
+    "x": -2057.77,
+    "y": -886.903,
     "name": "Cull Wailing Hills Woodwraiths</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Woodwraiths: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -44.379494,
-    "y": 126.86854,
+    "x": -2122.29,
+    "y": -492.284,
     "name": "Cull Strand Drowned</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Drowned: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -66.512924,
-    "y": 88.99628,
+    "x": -1282.43,
+    "y": -712.57,
     "name": "Cull Westering Lowlands Skeletons</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Skeletons: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -54.219955,
-    "y": 129.2792,
+    "x": -2018.3,
+    "y": -320.813,
     "name": "Cull The Shrouded Moors Bandits</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Bandits: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -38.728874,
-    "y": 88.70799,
+    "x": -1667.27,
+    "y": -1105.48,
     "name": "Harvest: Northshore</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -54.120033,
-    "y": 71.66997,
+    "x": -1213.38,
+    "y": -1128.53,
     "name": "Harvest: Deep Forest</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -58.081116,
-    "y": 112.349915,
+    "x": -1727.31,
+    "y": -503.719,
     "name": "Harvest: The Downs</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -55.10005,
-    "y": 99.339806,
+    "x": -1586.94,
+    "y": -727.537,
     "name": "Harvest: High Forest</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -69.80633,
-    "y": 136.34833,
+    "x": -1899.09,
+    "y": -3.71896,
     "name": "Harvest: Highland Wilds</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -35.54451,
-    "y": 104.28781,
+    "x": -1929.9,
+    "y": -931.989,
     "name": "Harvest: Wailing Hills</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -45.33203,
-    "y": 115.51785,
+    "x": -1950.09,
+    "y": -637.82,
     "name": "Harvest: Strand</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -55.531548,
-    "y": 94.99006,
+    "x": -1520.02,
+    "y": -782.378,
     "name": "Harvest: Westering Lowlands</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -52.9028,
-    "y": 142.24075,
+    "x": -2218.15,
+    "y": -157.834,
     "name": "Harvest: The Shrouded Moors</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -36.23214,
-    "y": 93.55032,
+    "x": -1769.99,
+    "y": -1072.65,
     "name": "Scourging Ings Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -33.110245,
-    "y": 100.69255,
+    "x": -1913.65,
+    "y": -1016.38,
     "name": "Gamall Nook Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -22.279922,
-    "y": 101.41452,
+    "x": -2075.34,
+    "y": -1157.86,
     "name": "Cursed Scarps Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -25.563293,
-    "y": 92.16817,
+    "x": -1899.97,
+    "y": -1241.32,
     "name": "Abandoned Coast Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -61.819405,
-    "y": 87.339264,
+    "x": -1324.93,
+    "y": -801.454,
     "name": "Issalia&#39;s Rise Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -55.60901,
-    "y": 74.93867,
+    "x": -1238.29,
+    "y": -1061.94,
     "name": "Vasily&#39;s Reach Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -43.48011,
-    "y": 86.81678,
+    "x": -1574.3,
+    "y": -1065.45,
     "name": "Duin Carr Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -63.000053,
-    "y": 111.76241,
+    "x": -1650.24,
+    "y": -443.095,
     "name": "The Fetid Farmlands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -62.423424,
-    "y": 124.52285,
+    "x": -1836.91,
+    "y": -272.566,
     "name": "Umbralwood Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -58.81453,
-    "y": 118.8284,
+    "x": -1807.72,
+    "y": -402.779,
     "name": "Scosglen Graveyard Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -50.239418,
-    "y": 97.21203,
+    "x": -1625.19,
+    "y": -825.349,
     "name": "Old Forest Clearing Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -47.53914,
-    "y": 105.32244,
+    "x": -1776.5,
+    "y": -749.627,
     "name": "Woodwraith Edge Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -55.662773,
-    "y": 97.1718,
+    "x": -1548.72,
+    "y": -750.005,
     "name": "Shadow Wood Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -65.8036,
-    "y": 149.74873,
+    "x": -2142.67,
+    "y": 127.814,
     "name": "Dead Forest Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -70.578545,
-    "y": 140.34212,
+    "x": -1944.18,
+    "y": 62.9876,
     "name": "Ard Lands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -68.65942,
-    "y": 124.84872,
+    "x": -1754.19,
+    "y": -180.724,
     "name": "The Great Northern Plains Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -65.677605,
-    "y": 136.32855,
+    "x": -1956.6,
+    "y": -61.7828,
     "name": "Ruins of Brione Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -37.833565,
-    "y": 117.66049,
+    "x": -2085.03,
+    "y": -712.782,
     "name": "Wailing Coast Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -45.395905,
-    "y": 112.312294,
+    "x": -1904.33,
+    "y": -681.792,
     "name": "Bronagh Expanse Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -57.314087,
-    "y": 91.42263,
+    "x": -1445.14,
+    "y": -807.36,
     "name": "Gaothmar Grasslands Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -60.42626,
-    "y": 97.13334,
+    "x": -1481.51,
+    "y": -683.872,
     "name": "The Witan Wolds Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -68.57579,
-    "y": 90.320366,
+    "x": -1272.09,
+    "y": -665.165,
     "name": "Outlaws Grove Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -46.32511,
-    "y": 142.07619,
+    "x": -2307.91,
+    "y": -252.201,
     "name": "The Dark Heaths Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -55.415634,
-    "y": 127.75988,
+    "x": -1980.3,
+    "y": -325.343,
     "name": "Faers Watch Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -55.321945,
-    "y": 144.59633,
+    "x": -2217.26,
+    "y": -91.0056,
     "name": "The Daudur Peats Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -51.46096,
-    "y": 115.95315,
+    "x": -1870.4,
+    "y": -545.945,
     "name": "The Cinder Woods Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -44.32791,
-    "y": 127.152756,
+    "x": -2126.99,
+    "y": -489.028,
     "name": "The Razor Shoals Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -32.26719,
-    "y": 94.0694,
+    "x": -1832.75,
+    "y": -1120.88,
     "name": "Northshore Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Northshore: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -67.2315,
-    "y": 137.29872,
+    "x": -1948.43,
+    "y": -26.455,
     "name": "Highland Wilds Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Highland Wilds: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -61.99189,
-    "y": 95.74247,
+    "x": -1440.13,
+    "y": -681.426,
     "name": "Westering Lowlands Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of the Westering Lowlands: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -53.55047,
-    "y": 135.58224,
+    "x": -2115.89,
+    "y": -241.964,
     "name": "The Shrouded Moors Events</br>Dark forces threaten to overwhelm these lands. Uproot them from their positions of power and drive them out.</br>Complete events in different areas of The Shrouded Moors: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -27.448067,
-    "y": 105.13085,
+    "x": -2055.02,
+    "y": -1033.51,
     "name": "Sunken Ruins</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Sunken Ruins"
   },
   {
-    "x": -29.0317,
-    "y": 97.24986,
+    "x": -1922.55,
+    "y": -1121.65,
     "name": "Calibel&#39;s Mine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Calibel&#39;s Mine"
   },
   {
-    "x": -43.99476,
-    "y": 94.5433,
+    "x": -1675.24,
+    "y": -950.104,
     "name": "Howling Warren</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Howling Warren"
   },
   {
-    "x": -15.919327,
-    "y": 96.405,
+    "x": -2094.25,
+    "y": -1317.0,
     "name": "Flooded Depths</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Flooded Depths"
   },
   {
-    "x": -49.329857,
-    "y": 81.07064,
+    "x": -1412.0,
+    "y": -1064.0,
     "name": "Underroot</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Underroot"
   },
   {
-    "x": -43.40223,
-    "y": 82.440636,
+    "x": -1514.14,
+    "y": -1127.79,
     "name": "Wretched Delve</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Wretched Delve"
   },
   {
-    "x": -59.927208,
-    "y": 125.601135,
+    "x": -1886.94,
+    "y": -292.412,
     "name": "Oldstones</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Oldstones"
   },
   {
-    "x": -67.11455,
-    "y": 112.51247,
+    "x": -1603.15,
+    "y": -375.009,
     "name": "Sarat&#39;s Lair</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Sarat&#39;s Lair"
   },
   {
-    "x": -50.446693,
-    "y": 105.275635,
+    "x": -1735.15,
+    "y": -709.587,
     "name": "Stockades</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Stockades"
   },
   {
-    "x": -72.27088,
-    "y": 130.53716,
+    "x": -1783.26,
+    "y": -50.5594,
     "name": "Maddux Watch</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Maddux Watch"
   },
   {
-    "x": -68.34728,
-    "y": 134.8457,
+    "x": -1898.48,
+    "y": -45.1716,
     "name": "The Hive</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Hive"
   },
   {
-    "x": -63.10051,
-    "y": 150.18004,
+    "x": -2186.54,
+    "y": 96.0175,
     "name": "Whispering Pines</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Whispering Pines"
   },
   {
-    "x": -38.478996,
-    "y": 110.9547,
+    "x": -1982.14,
+    "y": -797.605,
     "name": "Penitent Cairns</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Penitent Cairns"
   },
   {
-    "x": -48.098495,
-    "y": 109.74709,
+    "x": -1830.6,
+    "y": -679.869,
     "name": "Raethwind Wilds</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Raethwind Wilds"
   },
   {
-    "x": -33.220146,
-    "y": 117.811874,
+    "x": -2151.72,
+    "y": -775.234,
     "name": "Vault of the Forsaken</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Vault of the Forsaken"
   },
   {
-    "x": -40.71649,
-    "y": 131.52986,
+    "x": -2238.8,
+    "y": -478.311,
     "name": "Mariner&#39;s Refuge</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Mariner&#39;s Refuge"
   },
   {
-    "x": -48.333527,
-    "y": 115.65432,
+    "x": -1909.99,
+    "y": -593.9,
     "name": "Domhainne Tunnels</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Domhainne Tunnels"
   },
   {
-    "x": -49.156883,
-    "y": 127.847084,
+    "x": -2069.12,
+    "y": -411.722,
     "name": "Garan Hold</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Garan Hold"
   },
   {
-    "x": -51.164764,
-    "y": 120.246735,
+    "x": -1934.64,
+    "y": -489.996,
     "name": "Luban&#39;s Rest</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Luban&#39;s Rest"
   },
   {
-    "x": -70.82965,
-    "y": 98.89448,
+    "x": -1360.55,
+    "y": -513.613,
     "name": "Broken Bulwark</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Broken Bulwark"
   },
   {
-    "x": -66.66214,
-    "y": 101.099335,
+    "x": -1449.74,
+    "y": -541.083,
     "name": "Demon&#39;s Wake</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Demon&#39;s Wake"
   },
   {
-    "x": -42.462563,
-    "y": 137.66565,
+    "x": -2300.24,
+    "y": -367.994,
     "name": "Ferals&#39; Den</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Ferals&#39; Den"
   },
   {
-    "x": -44.040123,
-    "y": 134.88777,
+    "x": -2239.28,
+    "y": -384.794,
     "name": "Twisted Hollow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Twisted Hollow"
   },
   {
-    "x": -51.39258,
-    "y": 130.67007,
+    "x": -2077.34,
+    "y": -340.919,
     "name": "Aldurwood</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Aldurwood"
   },
   {
-    "x": -46.19558,
-    "y": 146.08345,
+    "x": -2365.81,
+    "y": -197.927,
     "name": "Jalal&#39;s Vigil</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Jalal&#39;s Vigil"
   },
   {
-    "x": -42.337173,
-    "y": 121.21098,
+    "x": -2071.69,
+    "y": -600.054,
     "name": "World Boss</br>Ashava the Pestilent, Avarice the Gold-cursed, and the Wandering Death have occasionally been seen at this location.</br>Slay the World Boss"
   },
   {
-    "x": -43.27971,
-    "y": 99.7255,
+    "x": -1757.78,
+    "y": -887.58,
     "name": "Legion Event</br>The forces of evil are amassing at this location. Decimate their ranks before they can fully organize.</br>Complete the Legion Event"
   },
   {
-    "x": -37.758255,
-    "y": 86.38773,
+    "x": -1648.38,
+    "y": -1151.54,
     "name": "The Forgotten Shack</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Forgotten Shack"
   },
   {
-    "x": -29.043121,
-    "y": 89.84292,
+    "x": -1818.72,
+    "y": -1225.16,
     "name": "The Rotting Outhouse</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Rotting Outhouse"
   },
   {
-    "x": -25.600441,
-    "y": 103.55758,
+    "x": -2058.86,
+    "y": -1081.39,
     "name": "The Watery Sinkhole</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Watery Sinkhole"
   },
   {
-    "x": -54.35582,
-    "y": 75.40307,
+    "x": -1262.33,
+    "y": -1072.98,
     "name": "The Abandoned Mine Sinkhole</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Abandoned Mine Sinkhole"
   },
   {
-    "x": -45.41294,
-    "y": 92.57131,
+    "x": -1627.79,
+    "y": -957.855,
     "name": "The Fisherman&#39;s Rest</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Fisherman&#39;s Rest"
   },
   {
-    "x": -57.164223,
-    "y": 78.95954,
+    "x": -1272.8,
+    "y": -983.895,
     "name": "The Lost Ritual Site</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Lost Ritual Site"
   },
   {
-    "x": -58.950874,
-    "y": 113.843414,
+    "x": -1736.04,
+    "y": -470.642,
     "name": "The Decrepit Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Decrepit Cellar"
   },
   {
-    "x": -66.24607,
-    "y": 113.85384,
+    "x": -1634.08,
+    "y": -368.39,
     "name": "The Disturbed Arachnid Tunnels</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Disturbed Arachnid Tunnels"
   },
   {
-    "x": -67.57246,
-    "y": 122.31566,
+    "x": -1733.95,
+    "y": -231.391,
     "name": "Wretches&#39; Stow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Wretches&#39; Stow"
   },
   {
-    "x": -56.549576,
-    "y": 98.95956,
+    "x": -1561.33,
+    "y": -712.571,
     "name": "The Unintended Grave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Unintended Grave"
   },
   {
-    "x": -68.23706,
-    "y": 147.28806,
+    "x": -2074.17,
+    "y": 127.433,
     "name": "The Collapsed Fishing Cabin</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Collapsed Fishing Cabin"
   },
   {
-    "x": -60.296417,
-    "y": 140.10333,
+    "x": -2084.75,
+    "y": -84.2667,
     "name": "The Unfortunate Shelter</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Unfortunate Shelter"
   },
   {
-    "x": -70.58189,
-    "y": 131.1402,
+    "x": -1815.34,
+    "y": -65.7589,
     "name": "Nature&#39;s Call</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear Nature&#39;s Call"
   },
   {
-    "x": -39.16613,
-    "y": 120.34769,
+    "x": -2103.99,
+    "y": -656.52,
     "name": "The Abandoned Cottage</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Abandoned Cottage"
   },
   {
-    "x": -45.58898,
-    "y": 107.564804,
+    "x": -1835.18,
+    "y": -745.537,
     "name": "The Infested Basement</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Infested Basement"
   },
   {
-    "x": -43.554108,
-    "y": 130.80652,
+    "x": -2188.96,
+    "y": -448.719,
     "name": "The Drowned Burrow</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Drowned Burrow"
   },
   {
-    "x": -48.443207,
-    "y": 125.282906,
+    "x": -2043.22,
+    "y": -457.6,
     "name": "The Fallen Latrine</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Fallen Latrine"
   },
   {
-    "x": -53.98069,
-    "y": 117.77555,
+    "x": -1860.64,
+    "y": -485.171,
     "name": "The Ancient Grave</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Ancient Grave"
   },
   {
-    "x": -45.392868,
-    "y": 114.812065,
+    "x": -1939.36,
+    "y": -646.847,
     "name": "The Seared Cellar</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Seared Cellar"
   },
   {
-    "x": -62.945457,
-    "y": 91.63115,
+    "x": -1369.24,
+    "y": -725.623,
     "name": "The Unfinished Smuggling Tunnel</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Unfinished Smuggling Tunnel"
   },
   {
-    "x": -53.099953,
-    "y": 91.4889,
+    "x": -1505.05,
+    "y": -865.415,
     "name": "The Meat Locker</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Meat Locker"
   },
   {
-    "x": -55.856026,
-    "y": 146.84659,
+    "x": -2241.28,
+    "y": -52.035,
     "name": "The Overgrown Outpost</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Overgrown Outpost"
   },
   {
-    "x": -56.953926,
-    "y": 137.12878,
+    "x": -2089.9,
+    "y": -172.682,
     "name": "The Infested Pit</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Infested Pit"
   },
   {
-    "x": -33.51287,
-    "y": 95.46725,
+    "x": -1834.88,
+    "y": -1083.88,
     "name": "Ritual: Northshore</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -64.05093,
-    "y": 131.0595,
+    "x": -1905.62,
+    "y": -158.298,
     "name": "Ritual: Highland Wilds</br>The Tree of Whisper&#39;s influence in this area has waned. Perform a series of rituals to put the land back under its gaze.</br>Invoke rituals: {LEFT}"
   },
   {
-    "x": -129.68813,
-    "y": 43.610596,
+    "x": 237.025,
+    "y": -463.582,
     "name": "Hellborn Despoiler</br>One who violates their pact with the Tree of Whispers will always pay the inevitable price.</br>Find the corpse</br>Defeat the Hellborn Despoiler"
   },
   {
-    "x": -131.2173,
-    "y": 51.376114,
+    "x": 149.739,
+    "y": -333.49,
     "name": "Cull Caldeum Knights</br>The wilds of Sanctuary resound with the din of countless lesser beings. Thin their numbers so the Tree may find respite.</br>Slay Knights: {DONE_OVER_NEEDED}"
   },
   {
-    "x": -129.21921,
-    "y": 47.157516,
+    "x": 180.818,
+    "y": -420.501,
     "name": "Harvest: Caldeum</br>The Tree of Whispers thirsts, and asks another favor. Harvest Venous Motes from any slain foe and offer it to the Altar of Reaping. </br>Harvest venous motes from enemies</br>Deposit venous motes into the Altar of Reaping"
   },
   {
-    "x": -127.44521,
-    "y": 49.442154,
+    "x": 124.012,
+    "y": -413.354,
     "name": "Crusaders&#39; Cathedral</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Crusaders&#39; Cathedral"
   },
   {
-    "x": -133.18271,
-    "y": 45.25534,
+    "x": 262.916,
+    "y": -391.65,
     "name": "Prison of Caldeum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete Prison of Caldeum"
   },
   {
-    "x": -122.915855,
-    "y": 47.156433,
+    "x": 92.6092,
+    "y": -508.74,
     "name": "Yshari Sanctum</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Complete the Yshari Sanctum"
   },
   {
-    "x": -137.08258,
-    "y": 46.250107,
+    "x": 303.577,
+    "y": -323.143,
     "name": "Southern Expanse Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -127.85686,
-    "y": 45.003952,
+    "x": 191.892,
+    "y": -469.711,
     "name": "Residential District Event</br>Once a ley line harnessed by the Tree of Whispers, dark forces have taken hold of this place.</br>Complete an event in {LEVELAREA}"
   },
   {
-    "x": -133.20544,
-    "y": 57.134293,
+    "x": 96.9724,
+    "y": -225.07,
     "name": "The Deserted Textile Shop</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Deserted Textile Shop"
   },
   {
-    "x": -126.53372,
-    "y": 41.468674,
+    "x": 222.854,
+    "y": -537.711,
     "name": "The Penitent Temple</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Penitent Temple"
   },
   {
-    "x": -128.41307,
-    "y": 43.309784,
+    "x": 223.389,
+    "y": -485.638,
     "name": "The City Armory</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the City Armory"
   },
   {
-    "x": -133.49208,
-    "y": 49.142563,
+    "x": 212.839,
+    "y": -332.913,
     "name": "The Knight&#39;s Lodging</br>Many lost souls are bound to the Tree by the echoes of their past sins. Returning to the site of transgression to cleanse it of evil may yet bring them penance.</br>Clear the Knight&#39;s Lodging"
   }
 ]

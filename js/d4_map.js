@@ -10,12 +10,13 @@ var cellarIcon = { url: 'img/mapicons/cellar.png', size: [40, 40] };
 var waypointIcon = { url: 'img/mapicons/waypoint.png', size: [30, 30] };
 var chestIcon = { url: 'img/mapicons/chest.png', size: [50, 50] };
 var eventIcon = { url: 'img/mapicons/bounty.png', size: [40, 40] };
+var questIcon = { url: 'img/mapicons/sidequest.png', size: [40, 40] };
 var namesToSearch = [];
 var markers = [];
 var locationMap = [];
-var overlayMapNames = ['Waypoints', 'Dungeons', 'Altars of Lilith', 'Cellars', 'Helltide Chests', 'Events'];
-var icons = [waypointIcon, dungeonIcon, altarIcon, cellarIcon, chestIcon, eventIcon];
-var groupings = [waypoints, dungeons, altars, cellars, chests, events];
+var overlayMapNames = ['Waypoints', 'Dungeons', 'Altars of Lilith', 'Cellars', 'Helltide Chests', 'Events', 'Side Quests'];
+var icons = [waypointIcon, dungeonIcon, altarIcon, cellarIcon, chestIcon, eventIcon, questIcon];
+var groupings = [waypoints, dungeons, altars, cellars, chests, events, sidequests];
 var overlayMaps = {};
 
 var urlParams = new URLSearchParams(window.location.search);
@@ -40,6 +41,7 @@ function getMap(x, y) {
     return [mapX, mapY];
 }
 
+
 if(x != null && y != null)
 {
     var points = rotate(1449, 2909, x, y, -45);
@@ -63,8 +65,9 @@ else if (cow != null)
     for (m of cows) {
         var tooltip = m.name;
         var grouping = tooltip.includes('ambient_cow') ? ambient : other;
-        markers.push({name: m.name, marker: L.canvasMarker([m.x, m.y], {img: cowIcon}).addTo(grouping).bindTooltip(tooltip)});
-        locationMap[tooltip] = [m.x, m.y];
+        var pos = [m.x, m.y];// getMap(m.x, m.y);
+        markers.push({name: m.name, marker: L.canvasMarker(pos, {img: cowIcon}).addTo(grouping).bindTooltip(tooltip)});
+        locationMap[tooltip] = pos;
     }
     ambient.addTo(map);
     other.addTo(map);
@@ -88,8 +91,10 @@ else
             var tooltip = m.name;
             if (m.description != null) tooltip += '</br>' + m.description;
             namesToSearch.push(tooltip);
-            markers.push({name: m.name, marker: L.canvasMarker([m.x, m.y], {img: icon}).addTo(group).bindTooltip(tooltip)});
-            locationMap[tooltip] = [m.x, m.y];
+            var pos = getMap(m.x, m.y);
+            var marker = L.canvasMarker(pos, {img: icon}).addTo(group).bindTooltip(tooltip);
+            markers.push({name: m.name, marker: marker});
+            locationMap[tooltip] = pos;
         }
         group.addTo(map);
         overlayMaps[overlayMapNames[i]] = group;
@@ -97,6 +102,12 @@ else
 }
 
 var layerControl = L.control.layers(null, overlayMaps).addTo(map);
+
+var oms = new OverlappingMarkerSpiderfier(map);
+for (let i = 0; i < markers.length; i++) {
+    var marker = markers[i].marker;
+    oms.addMarker(marker);
+}
 
 var fuse = new Fuse(namesToSearch, { shouldSort: true, threshold: 0.2, location: 0, distance: 1000, minMatchCharLength: 1});
 var searchbox = L.control.searchbox({ position: 'topright', expand: 'left'}).addTo(map);
@@ -114,4 +125,3 @@ searchbox.onInput("keyup", function (e) {
         searchbox.clearItems();
     }
 });
-

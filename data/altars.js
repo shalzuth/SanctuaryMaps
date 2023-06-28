@@ -1,961 +1,961 @@
 var altars = [
   {
-    "x": -139.34047,
-    "y": 54.613846,
+    "x": 218.117,
+    "y": -174.479,
     "name": "Forgotten Overlook",
     "description": "Max Obols +5"
   },
   {
-    "x": -132.04971,
-    "y": 57.531113,
+    "x": 75.2424,
+    "y": -235.692,
     "name": "Caldeum Bazaar",
     "description": "Dexterity +2"
   },
   {
-    "x": -127.17857,
-    "y": 41.325012,
+    "x": 233.89,
+    "y": -530.696,
     "name": "Residential District",
     "description": "Strength +2"
   },
   {
-    "x": -138.47105,
-    "y": 38.31076,
+    "x": 434.132,
+    "y": -414.831,
     "name": "Central Plateau",
     "description": "Dexterity +2"
   },
   {
-    "x": -152.9353,
-    "y": 35.91548,
+    "x": 670.104,
+    "y": -245.91,
     "name": "Eastern Basin",
     "description": "Willpower +2"
   },
   {
-    "x": -150.15308,
-    "y": 43.701797,
+    "x": 522.183,
+    "y": -175.871,
     "name": "Hakan&#39;s Oasis",
     "description": "Strength +2"
   },
   {
-    "x": -144.6639,
-    "y": 40.669388,
+    "x": 487.797,
+    "y": -295.142,
     "name": "Central Plateau",
     "description": "Intelligence +2"
   },
   {
-    "x": -143.59494,
-    "y": 34.142365,
+    "x": 564.19,
+    "y": -401.458,
     "name": "Central Plateau",
     "description": "Max Obols +5"
   },
   {
-    "x": -116.81572,
-    "y": 33.537415,
+    "x": 197.846,
+    "y": -784.736,
     "name": "Dimmed Grotto",
     "description": "Dexterity +2"
   },
   {
-    "x": -132.04474,
-    "y": 23.886215,
+    "x": 546.078,
+    "y": -706.667,
     "name": "Blistering Strand",
     "description": "Willpower +2"
   },
   {
-    "x": -134.37567,
-    "y": 27.909515,
+    "x": 522.391,
+    "y": -617.731,
     "name": "Scorched Gulch",
     "description": "Strength +2"
   },
   {
-    "x": -120.94612,
-    "y": 26.270905,
+    "x": 357.361,
+    "y": -828.63,
     "name": "Jagged Coast",
     "description": "Max Obols +5"
   },
   {
-    "x": -128.9191,
-    "y": 35.213287,
+    "x": 343.793,
+    "y": -591.877,
     "name": "Dahlgur Oasis",
     "description": "Intelligence +2"
   },
   {
-    "x": -147.10052,
-    "y": 46.756622,
+    "x": 436.702,
+    "y": -175.839,
     "name": "Omath&#39;s Redoubt",
     "description": "Willpower +2"
   },
   {
-    "x": -150.02863,
-    "y": 60.62259,
+    "x": 283.612,
+    "y": 59.2163,
     "name": "Pallid Oasis",
     "description": "Willpower +2"
   },
   {
-    "x": -150.98161,
-    "y": 56.551056,
+    "x": 353.937,
+    "y": 15.5681,
     "name": "Pallid Oasis",
     "description": "Strength +2"
   },
   {
-    "x": -140.86197,
-    "y": 57.563736,
+    "x": 198.125,
+    "y": -111.896,
     "name": "Bleak Dunes",
     "description": "Intelligence +2"
   },
   {
-    "x": -45.17482,
-    "y": 134.31989,
+    "x": -2215.45,
+    "y": -376.861,
     "name": "Moordaine Lodge",
     "description": "Willpower +2"
   },
   {
-    "x": -21.507957,
-    "y": 100.61109,
+    "x": -2074.9,
+    "y": -1179.91,
     "name": "The Cursed Scarps",
     "description": "Dexterity +2"
   },
   {
-    "x": -26.456032,
-    "y": 107.01099,
+    "x": -2095.22,
+    "y": -1021.08,
     "name": "Stormbreak Cove",
     "description": "Strength +2"
   },
   {
-    "x": -38.184456,
-    "y": 89.46533,
+    "x": -1685.49,
+    "y": -1102.5,
     "name": "Writhing Brook",
     "description": "Dexterity +2"
   },
   {
-    "x": -30.696419,
-    "y": 94.557724,
+    "x": -1861.57,
+    "y": -1136.03,
     "name": "The Cursed Scarps",
     "description": "Intelligence +2"
   },
   {
-    "x": -43.487267,
-    "y": 84.28612,
+    "x": -1538.78,
+    "y": -1100.77,
     "name": "The Ancients&#39; Woods",
     "description": "Dexterity +2"
   },
   {
-    "x": -55.409843,
-    "y": 85.38231,
+    "x": -1387.25,
+    "y": -918.555,
     "name": "The Ancients&#39; Woods",
     "description": "Intelligence +2"
   },
   {
-    "x": -57.192627,
-    "y": 73.639404,
+    "x": -1197.94,
+    "y": -1057.96,
     "name": "The Ancients&#39; Woods",
     "description": "Dexterity +2"
   },
   {
-    "x": -59.347015,
-    "y": 123.95495,
+    "x": -1872.02,
+    "y": -323.573,
     "name": "Wraithstead",
     "description": "Strength +2"
   },
   {
-    "x": -63.923607,
-    "y": 117.69728,
+    "x": -1720.38,
+    "y": -347.102,
     "name": "The Unhallowed Pit",
     "description": "Dexterity +2"
   },
   {
-    "x": -64.6679,
-    "y": 110.595245,
+    "x": -1610.56,
+    "y": -436.087,
     "name": "Wealaf Rise",
     "description": "Dexterity +2"
   },
   {
-    "x": -48.009087,
-    "y": 96.02911,
+    "x": -1639.85,
+    "y": -873.122,
     "name": "Old Forest Clearing",
     "description": "Dexterity +2"
   },
   {
-    "x": -53.15603,
-    "y": 98.08312,
+    "x": -1596.56,
+    "y": -772.335,
     "name": "Shadow Wood",
     "description": "Intelligence +2"
   },
   {
-    "x": -63.59166,
-    "y": 108.368706,
+    "x": -1594.46,
+    "y": -482.314,
     "name": "Greenglen Meadows",
     "description": "Strength +2"
   },
   {
-    "x": -30.217262,
-    "y": 110.233505,
+    "x": -2087.68,
+    "y": -923.333,
     "name": "Ancestor Heights",
     "description": "Intelligence +2"
   },
   {
-    "x": -39.14338,
-    "y": 114.388374,
+    "x": -2020.9,
+    "y": -740.247,
     "name": "Wailing Coast",
     "description": "Strength +2"
   },
   {
-    "x": -48.35711,
-    "y": 110.39366,
+    "x": -1836.03,
+    "y": -667.2,
     "name": "Bronagh Expanse",
     "description": "Willpower +2"
   },
   {
-    "x": -18.714355,
-    "y": 99.31147,
+    "x": -2095.81,
+    "y": -1237.2,
     "name": "The Cursed Bay",
     "description": "Strength +2"
   },
   {
-    "x": -42.853172,
-    "y": 124.04472,
+    "x": -2104.13,
+    "y": -553.17,
     "name": "Razor Shoals",
     "description": "Strength +2"
   },
   {
-    "x": -44.0233,
-    "y": 132.5975,
+    "x": -2207.46,
+    "y": -417.085,
     "name": "Fiabre",
     "description": "Willpower +2"
   },
   {
-    "x": -50.490555,
-    "y": 117.590576,
+    "x": -1906.9,
+    "y": -536.609,
     "name": "Torvstrath",
     "description": "Willpower +2"
   },
   {
-    "x": -66.01447,
-    "y": 87.1189,
+    "x": -1263.13,
+    "y": -745.823,
     "name": "Outlaws Grove",
     "description": "Willpower +2"
   },
   {
-    "x": -59.817886,
-    "y": 93.21052,
+    "x": -1435.12,
+    "y": -747.292,
     "name": "The Witan Wolds",
     "description": "Dexterity +2"
   },
   {
-    "x": -68.39684,
-    "y": 95.63573,
+    "x": -1348.99,
+    "y": -593.274,
     "name": "Laglend Fen",
     "description": "Willpower +2"
   },
   {
-    "x": -55.91973,
-    "y": 129.6229,
+    "x": -1999.32,
+    "y": -292.212,
     "name": "Loch Raeth",
     "description": "Strength +2"
   },
   {
-    "x": -53.68808,
-    "y": 144.86867,
+    "x": -2243.94,
+    "y": -110.062,
     "name": "The Blood Vale",
     "description": "Willpower +2"
   },
   {
-    "x": -57.59321,
-    "y": 144.66772,
+    "x": -2186.47,
+    "y": -58.2168,
     "name": "The Daudur Peats",
     "description": "Intelligence +2"
   },
   {
-    "x": -63.708946,
-    "y": 150.76775,
+    "x": -2186.25,
+    "y": 112.759,
     "name": "Dead Forest",
     "description": "Strength +2"
   },
   {
-    "x": -71.98511,
-    "y": 134.3596,
+    "x": -1840.76,
+    "y": -1.05879,
     "name": "Maddux Hill",
     "description": "Intelligence +2"
   },
   {
-    "x": -68.28373,
-    "y": 139.90851,
+    "x": -1970.23,
+    "y": 24.7997,
     "name": "Dead Forest",
     "description": "Willpower +2"
   },
   {
-    "x": -60.6222,
-    "y": 142.77402,
+    "x": -2117.57,
+    "y": -42.3272,
     "name": "The Withered Scrubs",
     "description": "Strength +2"
   },
   {
-    "x": -63.533463,
-    "y": 134.29443,
+    "x": -1958.14,
+    "y": -120.263,
     "name": "Gloom Pine Pass",
     "description": "Dexterity +2"
   },
   {
-    "x": -67.47653,
-    "y": 124.44747,
+    "x": -1765.13,
+    "y": -202.896,
     "name": "The Great Northern Plains",
     "description": "Strength +2"
   },
   {
-    "x": -99.73239,
-    "y": 138.1099,
+    "x": -1504.89,
+    "y": 439.792,
     "name": "Zeleny Lowlands",
     "description": "Dexterity +2"
   },
   {
-    "x": -105.500336,
-    "y": 145.01315,
+    "x": -1520.78,
+    "y": 617.142,
     "name": "Tsepilova Pond",
     "description": "Willpower +2"
   },
   {
-    "x": -111.60278,
-    "y": 141.11368,
+    "x": -1380.79,
+    "y": 647.976,
     "name": "Trekker&#39;s Nook",
     "description": "Intelligence +2"
   },
   {
-    "x": -95.214714,
-    "y": 140.51546,
+    "x": -1601.79,
+    "y": 410.23,
     "name": "Malnok",
     "description": "Strength +2"
   },
   {
-    "x": -98.258545,
-    "y": 146.97375,
+    "x": -1649.58,
+    "y": 543.225,
     "name": "Shivering Wilds",
     "description": "Max Obols +5"
   },
   {
-    "x": -97.14818,
-    "y": 137.7977,
+    "x": -1536.69,
+    "y": 399.253,
     "name": "Shivering Wilds",
     "description": "Willpower +2"
   },
   {
-    "x": -87.25374,
-    "y": 128.37482,
+    "x": -1543.29,
+    "y": 128.881,
     "name": "Olyam Tundra",
     "description": "Intelligence +2"
   },
   {
-    "x": -82.46538,
-    "y": 130.29607,
+    "x": -1637.2,
+    "y": 88.752,
     "name": "The Deep White",
     "description": "Dexterity +2"
   },
   {
-    "x": -90.67789,
-    "y": 135.34204,
+    "x": -1592.88,
+    "y": 274.322,
     "name": "Olyam Tundra",
     "description": "Strength +2"
   },
   {
-    "x": -77.6233,
-    "y": 120.05043,
+    "x": -1561.57,
+    "y": -122.421,
     "name": "Kor Dragan: Courtyard",
     "description": "Willpower +2"
   },
   {
-    "x": -105.59189,
-    "y": 128.94333,
+    "x": -1294.58,
+    "y": 393.505,
     "name": "Western Tunnels",
     "description": "Strength +2"
   },
   {
-    "x": -109.62088,
-    "y": 123.345505,
+    "x": -1159.84,
+    "y": 371.547,
     "name": "Shadow Trail",
     "description": "Willpower +2"
   },
   {
-    "x": -97.71059,
-    "y": 123.459785,
+    "x": -1328.14,
+    "y": 206.446,
     "name": "Southeast Foothills",
     "description": "Max Obols +5"
   },
   {
-    "x": -84.486984,
-    "y": 108.74722,
+    "x": -1307.3,
+    "y": -184.558,
     "name": "Melnik&#39;s Hill",
     "description": "Willpower +2"
   },
   {
-    "x": -103.487915,
-    "y": 103.00212,
+    "x": -960.946,
+    "y": 0.975025,
     "name": "Frostbite Trails",
     "description": "Max Obols +5"
   },
   {
-    "x": -95.78462,
-    "y": 115.529396,
+    "x": -1244.1,
+    "y": 68.4934,
     "name": "Frostbite Trails",
     "description": "Dexterity +2"
   },
   {
-    "x": -96.726295,
-    "y": 109.0077,
+    "x": -1139.64,
+    "y": -9.60683,
     "name": "Nostrava",
     "description": "Intelligence +2"
   },
   {
-    "x": -96.68907,
-    "y": 117.692024,
+    "x": -1261.71,
+    "y": 111.421,
     "name": "Father&#39;s Cross",
     "description": "Intelligence +2"
   },
   {
-    "x": -100.92042,
-    "y": 120.45443,
+    "x": -1241.15,
+    "y": 209.308,
     "name": "Eastern Pass",
     "description": "Dexterity +2"
   },
   {
-    "x": -107.52423,
-    "y": 105.611565,
+    "x": -940.975,
+    "y": 93.9914,
     "name": "Icehowl Taiga",
     "description": "Strength +2"
   },
   {
-    "x": -89.97231,
-    "y": 80.20465,
+    "x": -831.034,
+    "y": -507.275,
     "name": "Bloodsoaked Ingress",
     "description": "Dexterity +2"
   },
   {
-    "x": -96.16815,
-    "y": 88.03899,
+    "x": -853.967,
+    "y": -310.904,
     "name": "The Trail of Bones",
     "description": "Strength +2"
   },
   {
-    "x": -94.78639,
-    "y": 81.61884,
+    "x": -783.448,
+    "y": -420.102,
     "name": "Bloodsoaked Ingress",
     "description": "Willpower +2"
   },
   {
-    "x": -89.91473,
-    "y": 75.5423,
+    "x": -766.584,
+    "y": -573.337,
     "name": "Bluffs of Olzei",
     "description": "Strength +2"
   },
   {
-    "x": -69.48663,
-    "y": 82.436775,
+    "x": -1149.0,
+    "y": -762.758,
     "name": "Hapless Frontier",
     "description": "Dexterity +2"
   },
   {
-    "x": -83.33125,
-    "y": 69.34164,
+    "x": -771.942,
+    "y": -752.268,
     "name": "Bastard&#39;s Pass",
     "description": "Intelligence +2"
   },
   {
-    "x": -74.94387,
-    "y": 78.68377,
+    "x": -1020.09,
+    "y": -738.905,
     "name": "The Crown of Fiends",
     "description": "Intelligence +2"
   },
   {
-    "x": -73.54637,
-    "y": 73.243835,
+    "x": -963.511,
+    "y": -834.604,
     "name": "Abahru Canyon",
     "description": "Intelligence +2"
   },
   {
-    "x": -70.9159,
-    "y": 75.166626,
+    "x": -1027.24,
+    "y": -844.509,
     "name": "Abahru Canyon",
     "description": "Intelligence +2"
   },
   {
-    "x": -98.145836,
-    "y": 86.35624,
+    "x": -802.734,
+    "y": -306.776,
     "name": "The Bleak Expanse",
     "description": "Willpower +2"
   },
   {
-    "x": -99.79413,
-    "y": 92.76783,
+    "x": -869.403,
+    "y": -193.967,
     "name": "The Bleak Expanse",
     "description": "Intelligence +2"
   },
   {
-    "x": -84.26821,
-    "y": 73.46379,
+    "x": -816.523,
+    "y": -681.459,
     "name": "The Onyx Watchtower",
     "description": "Willpower +2"
   },
   {
-    "x": -109.34625,
-    "y": 90.37062,
+    "x": -702.156,
+    "y": -93.8244,
     "name": "Ruins of Qara-Yisu",
     "description": "Willpower +2"
   },
   {
-    "x": -105.27552,
-    "y": 58.914032,
+    "x": -318.854,
+    "y": -591.077,
     "name": "Galtmaa Bushland",
     "description": "Willpower +2"
   },
   {
-    "x": -100.202126,
-    "y": 69.99335,
+    "x": -544.933,
+    "y": -507.016,
     "name": "Galtmaa Bushland",
     "description": "Strength +2"
   },
   {
-    "x": -92.61211,
-    "y": 69.91307,
+    "x": -650.042,
+    "y": -614.372,
     "name": "Crane Tribe Hutmoot",
     "description": "Dexterity +2"
   },
   {
-    "x": -106.27536,
-    "y": 70.680374,
+    "x": -469.546,
+    "y": -412.397,
     "name": "Desolation’s Reach",
     "description": "Intelligence +2"
   },
   {
-    "x": -98.191315,
-    "y": 63.27202,
+    "x": -479.003,
+    "y": -629.234,
     "name": "Temple of Rot",
     "description": "Paragon Points +1"
   },
   {
-    "x": -84.07758,
-    "y": 95.75739,
+    "x": -1131.22,
+    "y": -372.098,
     "name": "The Boiling Plains",
     "description": "Willpower +2"
   },
   {
-    "x": -76.343605,
-    "y": 93.64632,
+    "x": -1209.92,
+    "y": -509.893,
     "name": "Forsaken Ascent",
     "description": "Intelligence +2"
   },
   {
-    "x": -86.31999,
-    "y": 90.159904,
+    "x": -1021.49,
+    "y": -419.057,
     "name": "Path of Stray Souls ",
     "description": "Paragon Points +1"
   },
   {
-    "x": -80.565384,
-    "y": 56.641098,
+    "x": -632.893,
+    "y": -968.741,
     "name": "The Brackish Pans",
     "description": "Dexterity +2"
   },
   {
-    "x": -86.88286,
-    "y": 61.209045,
+    "x": -608.406,
+    "y": -816.385,
     "name": "The Brackish Pans",
     "description": "Paragon Points +1"
   },
   {
-    "x": -82.17377,
-    "y": 65.48781,
+    "x": -734.203,
+    "y": -822.408,
     "name": "Adherent’s Rise",
     "description": "Strength +2"
   },
   {
-    "x": -75.3602,
-    "y": 47.486176,
+    "x": -577.611,
+    "y": -1169.73,
     "name": "Ragged Shore",
     "description": "Dexterity +2"
   },
   {
-    "x": -86.36397,
-    "y": 36.47525,
+    "x": -269.486,
+    "y": -1169.83,
     "name": "The Ashen Tread",
     "description": "Willpower +2"
   },
   {
-    "x": -96.99186,
-    "y": 37.303223,
+    "x": -132.323,
+    "y": -1009.49,
     "name": "Tamuur Hinterland",
     "description": "Intelligence +2"
   },
   {
-    "x": -85.7392,
-    "y": 48.77951,
+    "x": -450.445,
+    "y": -1006.36,
     "name": "Undying Marches",
     "description": "Strength +2"
   },
   {
-    "x": -77.51369,
-    "y": 66.433266,
+    "x": -812.66,
+    "y": -874.399,
     "name": "Wayward Plains",
     "description": "Strength +2"
   },
   {
-    "x": -72.72094,
-    "y": 71.58226,
+    "x": -951.808,
+    "y": -869.413,
     "name": "Wayward Plains",
     "description": "Intelligence +2"
   },
   {
-    "x": -73.25029,
-    "y": 59.22789,
+    "x": -771.483,
+    "y": -1034.92,
     "name": "The Wretched Strand",
     "description": "Willpower +2"
   },
   {
-    "x": -58.214325,
-    "y": 70.45286,
+    "x": -1139.04,
+    "y": -1088.26,
     "name": "Wayward Plains",
     "description": "Dexterity +2"
   },
   {
-    "x": -100.71301,
-    "y": 45.89386,
+    "x": -200.478,
+    "y": -837.17,
     "name": "Akhai Prairie",
     "description": "Paragon Points +1"
   },
   {
-    "x": -120.25641,
-    "y": 140.95428,
+    "x": -1257.44,
+    "y": 766.864,
     "name": "The Swamp of Vanished Souls",
     "description": "Max Obols +5"
   },
   {
-    "x": -120.00116,
-    "y": 133.20352,
+    "x": -1152.53,
+    "y": 654.809,
     "name": "Tszava&#39;s Slough",
     "description": "Strength +2"
   },
   {
-    "x": -117.005554,
-    "y": 138.61653,
+    "x": -1270.22,
+    "y": 688.644,
     "name": "Venom-Drenched Path",
     "description": "Intelligence +2"
   },
   {
-    "x": -128.25072,
-    "y": 137.68922,
+    "x": -1099.85,
+    "y": 833.056,
     "name": "Misshapen Labyrinth",
     "description": "Dexterity +2"
   },
   {
-    "x": -160.84723,
-    "y": 142.76855,
+    "x": -714.71,
+    "y": 1360.38,
     "name": "Mangrove Snarl",
     "description": "Max Obols +5"
   },
   {
-    "x": -145.35207,
-    "y": 138.86292,
+    "x": -876.921,
+    "y": 1088.84,
     "name": "Blackguard Bog",
     "description": "Willpower +2"
   },
   {
-    "x": -153.37085,
-    "y": 135.35675,
+    "x": -715.614,
+    "y": 1152.0,
     "name": "The Rustwash",
     "description": "Intelligence +2"
   },
   {
-    "x": -136.40259,
-    "y": 91.01892,
+    "x": -332.54,
+    "y": 293.939,
     "name": "Nymyr Highlands",
     "description": "Dexterity +2"
   },
   {
-    "x": -143.0205,
-    "y": 81.117355,
+    "x": -101.328,
+    "y": 247.98,
     "name": "Savage Precipice",
     "description": "Willpower +2"
   },
   {
-    "x": -142.80788,
-    "y": 98.57785,
+    "x": -348.687,
+    "y": 489.387,
     "name": "Faith&#39;s Edge",
     "description": "Intelligence +2"
   },
   {
-    "x": -151.66898,
-    "y": 87.245605,
+    "x": -66.0539,
+    "y": 454.8,
     "name": "The Fallow Tillage",
     "description": "Strength +2"
   },
   {
-    "x": -127.14128,
-    "y": 152.66827,
+    "x": -1325.03,
+    "y": 1027.18,
     "name": "Bosun&#39;s Woe",
     "description": "Dexterity +2"
   },
   {
-    "x": -134.49356,
-    "y": 141.12776,
+    "x": -1060.6,
+    "y": 968.56,
     "name": "Revenants&#39; Roam",
     "description": "Max Obols +5"
   },
   {
-    "x": -140.5112,
-    "y": 153.06339,
+    "x": -1143.43,
+    "y": 1219.84,
     "name": "Bosun&#39;s Woe",
     "description": "Willpower +2"
   },
   {
-    "x": -153.55264,
-    "y": 114.06208,
+    "x": -415.022,
+    "y": 856.497,
     "name": "Reach of Adulation",
     "description": "Max Obols +5"
   },
   {
-    "x": -154.26512,
-    "y": 125.55373,
+    "x": -565.891,
+    "y": 1027.31,
     "name": "Ottvik&#39;s Travail",
     "description": "Dexterity +2"
   },
   {
-    "x": -159.0781,
-    "y": 124.649635,
+    "x": -485.873,
+    "y": 1082.02,
     "name": "Ottvik&#39;s Travail",
     "description": "Intelligence +2"
   },
   {
-    "x": -158.1287,
-    "y": 113.59346,
+    "x": -344.415,
+    "y": 913.986,
     "name": "The Molting Shore",
     "description": "Strength +2"
   },
   {
-    "x": -112.24924,
-    "y": 128.72388,
+    "x": -1198.33,
+    "y": 483.612,
     "name": "Eriman&#39;s Pyre",
     "description": "Intelligence +2"
   },
   {
-    "x": -128.2073,
-    "y": 125.38239,
+    "x": -928.207,
+    "y": 660.198,
     "name": "Corpsewail Deluge",
     "description": "Willpower +2"
   },
   {
-    "x": -131.26807,
-    "y": 132.5453,
+    "x": -985.622,
+    "y": 803.292,
     "name": "Corpsewail Deluge",
     "description": "Dexterity +2"
   },
   {
-    "x": -145.86392,
-    "y": 131.90617,
+    "x": -772.388,
+    "y": 998.635,
     "name": "The Dark Dross",
     "description": "Max Obols +5"
   },
   {
-    "x": -139.64104,
-    "y": 127.577576,
+    "x": -798.901,
+    "y": 850.953,
     "name": "Yngovani",
     "description": "Strength +2"
   },
   {
-    "x": -151.57152,
-    "y": 121.62924,
+    "x": -548.663,
+    "y": 934.681,
     "name": "Vyeresz: Temple Ruins",
     "description": "Dexterity +2"
   },
   {
-    "x": -127.825134,
-    "y": 118.235954,
+    "x": -833.532,
+    "y": 554.825,
     "name": "Bloodpox Basin",
     "description": "Max Obols +5"
   },
   {
-    "x": -122.387924,
-    "y": 124.875336,
+    "x": -1002.56,
+    "y": 571.651,
     "name": "Effluvium Ridge",
     "description": "Strength +2"
   },
   {
-    "x": -112.063156,
-    "y": 122.18185,
+    "x": -1109.37,
+    "y": 389.443,
     "name": "Intruder&#39;s Claim",
     "description": "Intelligence +2"
   },
   {
-    "x": -116.44348,
-    "y": 111.0734,
+    "x": -892.584,
+    "y": 295.274,
     "name": "Dismal Foothills",
     "description": "Max Obols +5"
   },
   {
-    "x": -139.73793,
-    "y": 115.46241,
+    "x": -627.977,
+    "y": 682.741,
     "name": "The Devouring Moor",
     "description": "Strength +2"
   },
   {
-    "x": -157.54068,
-    "y": 103.073204,
+    "x": -205.4,
+    "y": 758.511,
     "name": "Plains of Attrition",
     "description": "Max Obols +5"
   },
   {
-    "x": -145.05899,
-    "y": 112.62399,
+    "x": -513.774,
+    "y": 717.489,
     "name": "Diseased Embankment",
     "description": "Willpower +2"
   },
   {
-    "x": -150.28154,
-    "y": 104.95266,
+    "x": -333.307,
+    "y": 683.215,
     "name": "Plains of Attrition",
     "description": "Max Obols +5"
   },
   {
-    "x": -130.53209,
-    "y": 117.12156,
+    "x": -780.047,
+    "y": 577.115,
     "name": "Ruins of Rakhat Keep",
     "description": "Max Obols +5"
   },
   {
-    "x": -123.916504,
-    "y": 93.205666,
+    "x": -537.906,
+    "y": 149.786,
     "name": "Monument to the Failed Crusade",
     "description": "Willpower +2"
   },
   {
-    "x": -119.935,
-    "y": 66.519936,
+    "x": -220.13,
+    "y": -279.443,
     "name": "Alcarnus",
     "description": "Dexterity +2"
   },
   {
-    "x": -110.33348,
-    "y": 46.300095,
+    "x": -71.5123,
+    "y": -696.833,
     "name": "Altar of Ruin",
     "description": "Intelligence +2"
   },
   {
-    "x": -116.12779,
-    "y": 45.876038,
+    "x": 15.5221,
+    "y": -621.669,
     "name": "Scorching Dunes",
     "description": "Willpower +2"
   },
   {
-    "x": -121.76771,
-    "y": 59.541245,
+    "x": -96.8025,
+    "y": -351.468,
     "name": "Road to Alcarnus",
     "description": "Strength +2"
   },
   {
-    "x": -108.360344,
-    "y": 34.834,
+    "x": 61.3545,
+    "y": -884.933,
     "name": "Forgotten Coastline",
     "description": "Max Obols +5"
   },
   {
-    "x": -122.437904,
-    "y": 42.17447,
+    "x": 155.649,
+    "y": -585.159,
     "name": "Tar pits",
     "description": "Max Obols +5"
   },
   {
-    "x": -115.92163,
-    "y": 60.91101,
+    "x": -197.798,
+    "y": -414.12,
     "name": "Dunes of Despair",
     "description": "Intelligence +2"
   },
   {
-    "x": -107.1179,
-    "y": 53.716614,
+    "x": -220.323,
+    "y": -638.035,
     "name": "Lut Bahadur",
     "description": "Dexterity +2"
   },
   {
-    "x": -138.45352,
-    "y": 67.45459,
+    "x": 25.9799,
+    "y": -7.16999,
     "name": "Rezam&#39;s Excavation",
     "description": "Willpower +2"
   },
   {
-    "x": -129.47287,
-    "y": 60.662033,
+    "x": -4.64526,
+    "y": -227.937,
     "name": "Forlorn Badlands",
     "description": "Max Obols +5"
   },
   {
-    "x": -126.97658,
-    "y": 81.55675,
+    "x": -332.034,
+    "y": 29.5737,
     "name": "Silent Expanse",
     "description": "Strength +2"
   },
   {
-    "x": -120.861275,
-    "y": 72.172516,
+    "x": -286.281,
+    "y": -187.363,
     "name": "Forgotten Watch Post",
     "description": "Dexterity +2"
   },
   {
-    "x": -124.03377,
-    "y": 89.47835,
+    "x": -484.096,
+    "y": 99.2585,
     "name": "Silent Expanse",
     "description": "Intelligence +2"
   },
   {
-    "x": -113.51736,
-    "y": 82.46765,
+    "x": -533.163,
+    "y": -146.057,
     "name": "Scouring Sands",
     "description": "Dexterity +2"
   },
   {
-    "x": -46.790627,
-    "y": 84.486534,
+    "x": -1495.35,
+    "y": -1051.73,
     "name": "T&#250;r D&#250;lra",
     "description": "Intelligence +2"
   },
   {
-    "x": -91.0308,
-    "y": 154.43057,
+    "x": -1855.11,
+    "y": 546.431,
     "name": "Serac Rapture",
     "description": "Strength +2"
   },
   {
-    "x": -79.372154,
-    "y": 145.04822,
+    "x": -1886.97,
+    "y": 251.934,
     "name": "Sinner&#39;s Pass",
     "description": "Dexterity +2"
   },
   {
-    "x": -90.51552,
-    "y": 148.06018,
+    "x": -1773.16,
+    "y": 450.057,
     "name": "Fields of Judgment",
     "description": "Intelligence +2"
   },
   {
-    "x": -86.35133,
-    "y": 115.06917,
+    "x": -1369.69,
+    "y": -69.9798,
     "name": "Western Ways",
     "description": "Willpower +2"
   },
   {
-    "x": -79.041275,
-    "y": 107.902,
+    "x": -1371.69,
+    "y": -272.608,
     "name": "Western Ways",
     "description": "Max Obols +5"
   },
   {
-    "x": -82.189224,
-    "y": 124.698524,
+    "x": -1562.72,
+    "y": 6.54166,
     "name": "Crags of Ill Wind",
     "description": "Intelligence +2"
   },
   {
-    "x": -76.97359,
-    "y": 114.52088,
+    "x": -1493.27,
+    "y": -208.908,
     "name": "Western Ways",
     "description": "Strength +2"
   },
   {
-    "x": -106.07962,
-    "y": 111.29061,
+    "x": -1040.68,
+    "y": 153.258,
     "name": "Icehowl Taiga",
     "description": "Dexterity +2"
   }
