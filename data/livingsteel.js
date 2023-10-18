@@ -1,4 +1,4 @@
-var chests = [
+var lschests = [
   {
     "id": 1058146,
     "name": "Living Steel",
